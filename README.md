@@ -7,7 +7,7 @@ An unofficial reading seminar for frontier and classic papers or books in Econom
 
 1] 2018/7/26 18:00
 
-*Braguinsky, S., Ohyama, A., Okazaki, T., & Syverson, C. (2015). [Acquisitions, productivity, and profitability: evidence from the Japanese cotton spinning industry.](https://www.aeaweb.org/articles?id=10.1257/aer.20140150) American Economic Review, 105(7), 2086-2119.* 
+*Braguinsky, S., Ohyama, A., Okazaki, T., & Syverson, C. (2015). [Acquisitions, productivity, and profitability: evidence from the Japanese cotton spinning industry.](https://www.aeaweb.org/articles?id=10.1257/aer.20140150) American Economic Review, 105(7), 2086-2119.* --[slides](https://github.com/Alalalalaki/UT_EH/blob/master/historypre/Okazaki2015AER.pdf) 
 
 -1] 2017/10/26
 
