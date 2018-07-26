@@ -1,5 +1,7 @@
 > EH papers selected by Alalalalaki according to solely personal interests. 
 
+Stephenson, J. Z. (2018). [‘Real’wages? Contractors, workers, and pay in London building trades, 1650–1800.](https://onlinelibrary.wiley.com/doi/pdf/10.1111/ehr.12491) The Economic History Review, 71(1), 106-132.
+
 Okazaki, T., Onishi, K., & Wakamori, N. (2018). [Excess Capacity and Effectiveness of Policy Interventions: Evidence from the cement industry](https://www.rieti.go.jp/jp/publications/dp/18e012.pdf). RIETI working paper. -- [introduce](https://www.rieti.go.jp/jp/publications/dp/18e012.pdf)
 
 Geloso, V. (2018). [Douglass North, Shipping Productivity and Institutions.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3187628) In Income Inequality, G.P. Manish and Stephen C. Miller (eds). Forthcoming. [--](https://www.douban.com/photos/photo/2527966810/)
