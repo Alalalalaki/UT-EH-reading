@@ -13,7 +13,6 @@ An unofficial reading seminar for frontier and classic papers or books in Econom
 
 *Greif, A. (1993). [Contract enforceability and economic institutions in early trade: The Maghribi traders' coalition](https://www.jstor.org/stable/pdf/2117532.pdf). The American economic review, 525-548.* --[note](https://github.com/Alalalalaki/UT_EH/blob/master/historypre/Grief1993_2017:10.pdf)
 
-
 ------
 
 ## Journals
@@ -36,7 +35,7 @@ An unofficial reading seminar for frontier and classic papers or books in Econom
 
 [Economic History Papers - pseudoerasmus](https://pseudoerasmus.com/papers/)
 
-[Mark Koyama](https://medium.com/@MarkKoyama) 
+[Mark Koyama](https://medium.com/@MarkKoyama/could-rome-have-had-an-industrial-revolution-4126717370a2) 
 
 [Bradley A. Hansen's Blog](http://bradleyahansen.blogspot.com/2018/06/how-i-became-business-historian-bit-of.html)
 
