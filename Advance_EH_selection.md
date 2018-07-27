@@ -1,4 +1,4 @@
-> EH papers selected by Alalalalaki according to solely personal interests. 
+> EH papers selected by Alalalalaki based on solely personal interest. 
 
 Ciccarelli, C., De Fraja, G., & Tiezzi, S. (2018). [How Hard Is It to Maximise Profit? Evidence from a 19-th Century Italian State Monopoly](ftp://www.ceistorvergata.it/RePEc/rpaper/RP434.pdf). Discussion Paper. [--](https://www.douban.com/photos/photo/2527874216/)
 
