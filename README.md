@@ -1,6 +1,6 @@
 # UT EH reading seminar
 
-An unofficial reading seminar for frontier and classic papers or books in Economic History. 
+An unofficial reading seminar for frontier or classic papers and books in Economic History. 
 // Place: Akamon Research Building 353.
 
 <br />
