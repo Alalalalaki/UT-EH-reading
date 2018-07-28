@@ -1,5 +1,7 @@
 > EH papers selected by Alalalalaki based on solely personal interest. 
 
+Heblich, S., Redding, S. J., & Sturm, D. M. (2017). [The Making of the Modern Metropolis: Evidence from London](http://personal.lse.ac.uk/sturmd/papers/wp/MMM_20Sept2017.pdf). Discussion paper. 
+
 Ciccarelli, C., De Fraja, G., & Tiezzi, S. (2018). [How Hard Is It to Maximise Profit? Evidence from a 19-th Century Italian State Monopoly](ftp://www.ceistorvergata.it/RePEc/rpaper/RP434.pdf). Discussion Paper. [--](https://www.douban.com/photos/photo/2527874216/)
 
 Stephenson, J. Z. (2018). [‘Real’wages? Contractors, workers, and pay in London building trades, 1650–1800.](https://onlinelibrary.wiley.com/doi/pdf/10.1111/ehr.12491) The Economic History Review, 71(1), 106-132.
