@@ -5,6 +5,10 @@ An unofficial reading seminar for frontier or classic papers and books in Econom
 
 <br />
 
+2] 2018/08/
+
+*Mokyr, J. (2016). A culture of growth: the origins of the modern economy. Princeton University Press. Part I: Evolution, Culture, and Economic History.* 
+
 1] 2018/7/26 18:00
 
 *Braguinsky, S., Ohyama, A., Okazaki, T., & Syverson, C. (2015). [Acquisitions, productivity, and profitability: evidence from the Japanese cotton spinning industry.](https://www.aeaweb.org/articles?id=10.1257/aer.20140150) American Economic Review, 105(7), 2086-2119.* --[slides](https://github.com/Alalalalaki/UT_EH/blob/master/historypre/Okazaki2015AER.pdf) 
