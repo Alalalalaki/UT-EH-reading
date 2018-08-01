@@ -1,5 +1,13 @@
 > EH papers selected by Alalalalaki based on solely personal interest. 
 
+Karaja, E., & Rubin, J. (2017). [The Cultural Transmission of Trust Norms: Evidence from a Lab in the Field on a Natural Experiment.](http://www.jaredcrubin.com/working-papers)Working paper.
+
+Campbell, B. M. (2016). The great transition. Cambridge University Press. -- [review](http://eh.net/book_reviews/the-great-transition-climate-disease-and-society-in-the-late-medieval-world/) by Eric Jones
+
+Smith, S. D., & Forster, M. (2018). [“The Curse of the Caribbean”? Agency’s Impact on the Productivity of Sugar Estates on St. Vincent and the Grenadines, 1814–1829](https://www.cambridge.org/core/journals/journal-of-economic-history/article/curse-of-the-caribbean-agencys-impact-on-the-productivity-of-sugar-estates-on-st-vincent-and-the-grenadines-18141829/B5DEAFC50804AF576A796F20D9A58967#.W2HdKm8ArUs.twitter). The Journal of Economic History, 78(2), 472-499.
+
+Allen, R. C., Bassino, J. P., Ma, D., Moll‐Murata, C., & Van Zanden, J. L. (2011). [Wages, prices, and living standards in China, 1738–1925: in comparison with Europe, Japan, and India](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1468-0289.2010.00515.x). The Economic History Review, 64, 8-38.
+
 Greif, A., & Mokyr, J. (2017). [Cognitive rules, institutions, and economic growth: Douglass North and beyond](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/9246B44AE24CF2BDFC88BA7A6A0E2E4E/S1744137416000370a.pdf/cognitive_rules_institutions_and_economic_growth_douglass_north_and_beyond.pdf). Journal of Institutional Economics, 13(1), 25-52.
 
 Heblich, S., Redding, S. J., & Sturm, D. M. (2017). [The Making of the Modern Metropolis: Evidence from London](http://personal.lse.ac.uk/sturmd/papers/wp/MMM_20Sept2017.pdf). Discussion paper. 
