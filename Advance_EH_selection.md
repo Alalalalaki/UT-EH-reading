@@ -1,5 +1,13 @@
 > EH papers selected by Alalalalaki based on solely personal interest. 
 
+Kilian Huber, Volker Lindenthal, Fabian Waldinger, 2018. [Discrimination, Managers, and Firm Performance: Evidence from “Aryanizations” in Nazi Germany](https://sites.google.com/site/kilianhuberecon/research). Working paper.
+
+Richard N. Langlois, 2018. [The Fisher Body Case and Organizational Economics](http://web2.uconn.edu/economics/working/2018-13.pdf). Working paper.
+
+Alesina, A., & Giuliano, P. (2015). [Culture and institutions](https://www.jstor.org/stable/pdf/43927694.pdf). Journal of Economic Literature, 53(4), 898-944.
+
+De Jong, A., Higgins, D. M., & van Driel, H. (2015). [Towards a new business history?](https://www.tandfonline.com/doi/abs/10.1080/00076791.2014.977869). Business History, 57(1), 5-29.
+
 Karaja, E., & Rubin, J. (2017). [The Cultural Transmission of Trust Norms: Evidence from a Lab in the Field on a Natural Experiment.](http://www.jaredcrubin.com/working-papers)Working paper.
 
 Campbell, B. M. (2016). The great transition. Cambridge University Press. -- [review](http://eh.net/book_reviews/the-great-transition-climate-disease-and-society-in-the-late-medieval-world/) by Eric Jones
@@ -14,9 +22,11 @@ Heblich, S., Redding, S. J., & Sturm, D. M. (2017). [The Making of the Modern Me
 
 Ciccarelli, C., De Fraja, G., & Tiezzi, S. (2018). [How Hard Is It to Maximise Profit? Evidence from a 19-th Century Italian State Monopoly](ftp://www.ceistorvergata.it/RePEc/rpaper/RP434.pdf). Discussion Paper. [--](https://www.douban.com/photos/photo/2527874216/)
 
-Stephenson, J. Z. (2018). [‘Real’wages? Contractors, workers, and pay in London building trades, 1650–1800.](https://onlinelibrary.wiley.com/doi/pdf/10.1111/ehr.12491) The Economic History Review, 71(1), 106-132.
+Stephenson, J. Z. (2018). [‘Real’wages? Contractors, workers, and pay in London building trades, 1650–1800.](https://onlinelibrary.wiley.com/doi/pdf/10.1111/ehr.12491) The Economic History Review, 71(1), 106-132. 
 
 Jane Humphries and Jacob Weisdorf, [‘Unreal Wages? Real Income and Economic Growth in England, 1260-1850,’](https://sites.google.com/view/jacobweisdorf/ongoing?authuser=0)  unpublished manuscript, 2018. [--](https://www.douban.com/photos/photo/2518141689/#image)
+
+Allen, R. C. (2011). [Why the industrial revolution was British: commerce, induced invention, and the scientific revolution](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1468-0289.2010.00532.x). The Economic History Review, 64(2), 357-384. [--](https://twitter.com/DuncanWeldon/status/1007681269814177794)
 
 Okazaki, T., Onishi, K., & Wakamori, N. (2018). [Excess Capacity and Effectiveness of Policy Interventions: Evidence from the cement industry](https://www.rieti.go.jp/jp/publications/dp/18e012.pdf). RIETI working paper. -- [introduce](https://www.rieti.go.jp/jp/publications/dp/18e012.pdf)
 
@@ -72,6 +82,8 @@ Pascali, L. (2017). [The wind of change: Maritime technology, trade, and economi
 
 Saito, O., & Takashima, M. (2016). [Estimating the shares of secondary-and tertiary-sector outputs in the age of early modern growth: the case of Japan, 1600–1874.](https://academic.oup.com/ereh/article/20/3/368/2754574) European Review of Economic History, 20(3), 368-386.
 
+Saito, O. (2009). [Land, labour and market forces in Tokugawa Japan](http://hermes-ir.lib.hit-u.ac.jp/rs/bitstream/10086/18582/5/0101002901.pdf). Continuity and change, 24(1), 169-196.
+
 Brodeur, A., Lekfuangfu, W. N., & Zylberberg, Y. (2017). [War, migration and the origins of the Thai sex industry.](https://watermark.silverchair.com/jvx037.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAdEwggHNBgkqhkiG9w0BBwagggG-MIIBugIBADCCAbMGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMUODw2M31UglbYE7pAgEQgIIBhD7OZyHBl59elq03ZORjFx086YBhPCmMYtpZEG4yTZAEtXC_UvhNXmKiYmk0_3epD8c1i_OtXWb9M_BB9M0xMrlZHbR3X3PMWeNYodCV1zNeWd1Q5vs6HX_GWbjH5y8bvPqCqu2rfKQ1mU0E_viv0n3kIGhH1C_MHG9VGL-WkPaAfjlbh2e27dC6ht4Z4_nOnrCpGdbE9MS6ap0pNt9kZUeRmqIUeZ5R_UkMvFF64umLhk6Y6AOLP0cUNsynJUvqfH0t31m8G7x3n8wGkQ363lM2D5MVX02502tCWR2op1S9uwDEKRT0fahGDoIoxSFL4K0TFuzi5G4QfSDtfLsoGN2q0VHCKmXirAudOdFFe0y70h_LYThVnWBbnjXnDEfy8TRXC1SVSLTLePp49qg9E5VOzHxhDy24UNnQ18Zm5fxbwd-Bt7b-ohvJbhGg0YUZNMcGTEI0j4-NTNmVTtHXlfxjkLWp_UqEAo-CuY5Cyk-UKsEYqguGO4DxNynAChezhNPz3SE) Journal of the European Economic Association.
 
 Broadberry, S., & Wallis, J. J. (2017). [Growing, shrinking, and long run economic performance: historical perspectives on economic development](https://www.economics.ox.ac.uk/oxford-economic-and-social-history-working-papers/growing-shrinking-and-long-run-economic-performance-historical-perspectives-on-economic-development). NBER working paper. [--](https://www.douban.com/photos/photo/2511223299/)
@@ -79,6 +91,8 @@ Broadberry, S., & Wallis, J. J. (2017). [Growing, shrinking, and long run econom
 Dimico, A., Isopi, A., & Olsson, O. (2017). [Origins of the sicilian mafia: The market for lemons](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/52B18A611BD8AE26B4FDE3814A4239F1/S002205071700078Xa.pdf/div-class-title-origins-of-the-sicilian-mafia-the-market-for-lemons-div.pdf). The Journal of Economic History, 77(4), 1083-1115.
 
 Franks, J., Mayer, C., & Miyajima, H. (2014). [The ownership of Japanese corporations in the 20th century.](https://watermark.silverchair.com/hhu018.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAbkwggG1BgkqhkiG9w0BBwagggGmMIIBogIBADCCAZsGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMyTNkiWE_dd4FwbcxAgEQgIIBbNFFDavk60vreLLd4M6tZPAwdcdylBMFY9mQIfExfksfNSxsMMcd_fceHRpjUAwDLHkynJoroagShUOuWnbMyiSrrj-wl1rfaE-bm9zVaXyoct1pLhjnVTShIxq1aN_R1bZrKyuunvxQT6u247RMalHiv18VaLwB4PUTfpBE7ml-zaLRnOi9YJloJB6RVKvknOfnLy-vONTEKjox5DK1mmNUfG3PJe8nOZKapca1bLGbHhlJLtAfgYDrBZGco-9poXUyvrVN0V7URYUXpm5fNwD8JTVJ_gtFidwaa1ERCDyHgBSnnHoXp9O89bCm3X0nBzP3AQnfejIFaLHS4oS1jd_glPDE-dCSKHnxy4krOMpvlLmGm3RtByzOq52Q3NwGCAA-bJgL1MsZw0HRkbai47mqP_B564w6zng4x4N9nynB6wQ_gkre55u1ys7cFabpbGnnreNQC2oPO8t3apKxkluNAgJgaw4WTmqMhnk) The Review of Financial Studies, 27(9), 2580-2625.
+
+Acemoglu, D., Johnson, S., & Robinson, J. A. (2012). [The colonial origins of comparative development: An empirical investigation: Reply.](https://www.jstor.org/stable/pdf/41724682.pdf) American Economic Review, 102(6), 3077-3110.
 
 Henderson, J. V., Squires, T., Storeygard, A., & Weil, D. (2017). [The global distribution of economic activity: nature, history, and the role of trade.](https://academic.oup.com/qje/article/133/1/357/4110418) The Quarterly Journal of Economics, 133(1), 357-406.
 
@@ -92,6 +106,21 @@ Henderson, J. V., Squires, T., Storeygard, A., & Weil, D. (2017). [The global di
 
 ---
 
-> Elder ones
+> Classic ones
+
+Lamoreaux, N. R., Raff, D. M., & Temin, P. (2003). [Beyond markets and hierarchies: Toward a new synthesis of American business history.](https://faculty.wharton.upenn.edu/wp-content/uploads/2002/07/Beyond_Markets-and-_Hierarchies.pdf) The American Historical Review, 108(2), 404-433.
+
+Bresnahan, T. F., & Raff, D. M. (1991). [Intra-industry heterogeneity and the Great Depression: The American motor vehicles industry, 1929–1935.](https://www.jstor.org/stable/pdf/2122577.pdf) The Journal of Economic History, 51(2), 317-331.
 
 Clark, G. (1994). [Factory discipline.](https://www.cambridge.org/core/journals/journal-of-economic-history/article/factory-discipline/A068BDCAECFE5B37FDA616FD1D560AAD) The Journal of Economic History, 54(1), 128-163.
+
+Bell, F. W. (1968). [The Pope and the price of fish](https://www.jstor.org/stable/pdf/1814033.pdf). The American Economic Review, 58(5), 1346-1350.
+
+Arthur, W. B. (1989). [Competing technologies, increasing returns, and lock-in by historical events](http://www.jstor.org/stable/pdf/2234208.pdf). The economic journal, 99(394), 116-131.
+
+David, P. A. (2001). [Path dependence, its critics and the quest for ‘historical economics’](file:///Users/alalalalaki/Desktop/Institution%20&%20EH/path%20dependence/Path%20dependence%20its%20critics%20and%20the%20quest%20for%20'historical%20economics'%20PA%20David%20Evolution%20and%20path%20dependence%20in%20economic%20ideas%202001.pdf). Evolution and path dependence in economic ideas: Past and present, 15, 40.
+
+David, P A (1985), "Clio and the Economics of QWERTY." *The American Economic Review* (Papers and Proceedings) 75, 332-37.
+
+Solow, R (1985), “Economic History and Economics,” The American Economic Review 75, 328-31
+
