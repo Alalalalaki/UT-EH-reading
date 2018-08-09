@@ -1,6 +1,10 @@
 > EH papers selected by Alalalalaki based on solely personal interest. 
 
-Kilian Huber, Volker Lindenthal, Fabian Waldinger, 2018. [Discrimination, Managers, and Firm Performance: Evidence from “Aryanizations” in Nazi Germany](https://sites.google.com/site/kilianhuberecon/research). Working paper.
+William Quinn. (2018). [Technological revolutions and speculative finance: evidence from the British Bicycle Mania](https://academic.oup.com/cje/advance-article-abstract/doi/10.1093/cje/bey029/5067125?redirectedFrom=fulltext). Cambridge Journal of Economics
+
+Julia Cagé, Lucie Gadenne. (2018). [Tax Revenues and the Fiscal Cost of Trade Liberalization, 1792-2006](https://www.sciencedirect.com/science/article/abs/pii/S0014498317302541). Explorations in Economic History. -- [intro](https://twitter.com/LucieGadenne/status/1027127078196572160)
+
+Kilian Huber, Volker Lindenthal, Fabian Waldinger. (2018). [Discrimination, Managers, and Firm Performance: Evidence from “Aryanizations” in Nazi Germany](https://sites.google.com/site/kilianhuberecon/research). Working paper.
 
 Richard N. Langlois, 2018. [The Fisher Body Case and Organizational Economics](http://web2.uconn.edu/economics/working/2018-13.pdf). Working paper.
 
