@@ -1,5 +1,9 @@
 > EH papers selected by Alalalalaki based on solely personal interest. 
 
+Kota Ogasawara, Mizuki Komura. (2018) .[Consequences of war: Japan's demographic transition and the marriage market.](https://sites.google.com/site/kmrmzk2012/japanese/research) Working paper.
+
+Chen, S., & Lan, X. (2017). [There will be killing: Collectivization and death of draft animals.](https://www.aeaweb.org/articles?id=10.1257/app.20160247) American Economic Journal: Applied Economics, 9(4), 58-77.
+
 William Quinn. (2018). [Technological revolutions and speculative finance: evidence from the British Bicycle Mania](https://academic.oup.com/cje/advance-article-abstract/doi/10.1093/cje/bey029/5067125?redirectedFrom=fulltext). Cambridge Journal of Economics
 
 Julia Cagé, Lucie Gadenne. (2018). [Tax Revenues and the Fiscal Cost of Trade Liberalization, 1792-2006](https://www.sciencedirect.com/science/article/abs/pii/S0014498317302541). Explorations in Economic History. -- [intro](https://twitter.com/LucieGadenne/status/1027127078196572160)
@@ -112,6 +116,8 @@ Henderson, J. V., Squires, T., Storeygard, A., & Weil, D. (2017). [The global di
 
 > Classic ones
 
+Acemoglu, D. (2002). [Directed technical change](https://economics.mit.edu/files/4126). The Review of Economic Studies, 69(4), 781-809. [--](https://twitter.com/PapadiaAndrea/status/1030568309568294912) 
+
 Lamoreaux, N. R., Raff, D. M., & Temin, P. (2003). [Beyond markets and hierarchies: Toward a new synthesis of American business history.](https://faculty.wharton.upenn.edu/wp-content/uploads/2002/07/Beyond_Markets-and-_Hierarchies.pdf) The American Historical Review, 108(2), 404-433.
 
 Bresnahan, T. F., & Raff, D. M. (1991). [Intra-industry heterogeneity and the Great Depression: The American motor vehicles industry, 1929–1935.](https://www.jstor.org/stable/pdf/2122577.pdf) The Journal of Economic History, 51(2), 317-331.
@@ -127,4 +133,3 @@ David, P. A. (2001). [Path dependence, its critics and the quest for ‘historic
 David, P A (1985), "Clio and the Economics of QWERTY." *The American Economic Review* (Papers and Proceedings) 75, 332-37.
 
 Solow, R (1985), “Economic History and Economics,” The American Economic Review 75, 328-31
-

@@ -37,13 +37,13 @@ An unofficial reading seminar for frontier or classic papers and books in Econom
 
 ## Blogs
 
-[Economic History Papers - pseudoerasmus](https://pseudoerasmus.com/papers/)
+[pseudoerasmus - Economic History Papers](https://pseudoerasmus.com/papers/) & [Books](https://pseudoerasmus.com/economic-history-books/)
+
+[Brad DeLong](http://www.bradford-delong.com/2018/07/why-was-the-20th-century-not-a-chinese-century-an-outtake-from-slouching-towards-utopia-an-economic-history-of-the-long.html) - [Economic History Books](http://www.bradford-delong.com/2016/08/pseudoerasmuss-economic-history-reading-list.html)
 
 [Mark Koyama](https://medium.com/@MarkKoyama/could-rome-have-had-an-industrial-revolution-4126717370a2) 
 
 [Bradley A. Hansen's Blog](http://bradleyahansen.blogspot.com/2018/06/how-i-became-business-historian-bit-of.html)
-
-[Brad DeLong](http://www.bradford-delong.com/2018/07/why-was-the-20th-century-not-a-chinese-century-an-outtake-from-slouching-towards-utopia-an-economic-history-of-the-long.html)
 
 <br />
 

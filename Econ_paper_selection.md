@@ -1,5 +1,7 @@
 >  Personal interests
 
+Oster, E., Shoulson, I., & Dorsey, E. (2013). [Optimal expectations and limited medical testing: evidence from Huntington disease.](https://www.jstor.org/stable/pdf/23469683.pdf) American Economic Review, 103(2), 804-30.
+
 Foss, N. J. (1993). [Theories of the firm: contractual and competence perspectives.](https://link.springer.com/article/10.1007/BF01213830) Journal of evolutionary economics, 3(2), 127-144.
 
 Lazear, Edward P. 2018. ["Compensation and Incentives in the Workplace."](https://www.aeaweb.org/articles?id=10.1257/jep.32.3.195) Journal of Economic Perspectives, 32 (3): 195-214.
