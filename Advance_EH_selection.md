@@ -1,5 +1,7 @@
 > EH papers selected by Alalalalaki based on solely personal interest. 
 
+Ahlfeldt, G. M., Redding, S. J., Sturm, D. M., & Wolf, N. (2015). [The economics of density: Evidence from the Berlin Wall.](https://onlinelibrary.wiley.com/doi/pdf/10.3982/ECTA10876) Econometrica, 83(6), 2127-2189.
+
 Kota Ogasawara, Mizuki Komura. (2018) .[Consequences of war: Japan's demographic transition and the marriage market.](https://sites.google.com/site/kmrmzk2012/japanese/research) Working paper.
 
 Chen, S., & Lan, X. (2017). [There will be killing: Collectivization and death of draft animals.](https://www.aeaweb.org/articles?id=10.1257/app.20160247) American Economic Journal: Applied Economics, 9(4), 58-77.
