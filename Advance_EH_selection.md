@@ -1,5 +1,7 @@
 > EH papers selected by Alalalalaki based on solely personal interest. 
 
+Wallis, P., Colson, J., & Chilosi, D. (2017). [Structural change and economic growth in the British economy before the Industrial Revolution, 1500-1800.](http://eprints.lse.ac.uk/84510/1/Wallis_Structural%20change_2017.pdf) Journal of Economic History.
+
 Ahlfeldt, G. M., Redding, S. J., Sturm, D. M., & Wolf, N. (2015). [The economics of density: Evidence from the Berlin Wall.](https://onlinelibrary.wiley.com/doi/pdf/10.3982/ECTA10876) Econometrica, 83(6), 2127-2189.
 
 Kota Ogasawara, Mizuki Komura. (2018) .[Consequences of war: Japan's demographic transition and the marriage market.](https://sites.google.com/site/kmrmzk2012/japanese/research) Working paper.
