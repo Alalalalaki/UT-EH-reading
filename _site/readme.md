@@ -1,4 +1,4 @@
-# UT EH reading seminar
+# UT EH Reading Seminar
 
 An unofficial reading seminar for frontier or classic papers and books in Economic History. 
 // Place: Akamon Research Building 353.
@@ -32,6 +32,16 @@ An unofficial reading seminar for frontier or classic papers and books in Econom
 [European Review of Economic History (EREH)](https://academic.oup.com/ereh/advance-articles)
 
 ------
+
+## Advance Paper Selections
+
+[... ...](https://github.com/Alalalalaki/UT_EH/blob/master/Advance_EH_selection.md)
+
+-----
+
+## EH_Syllabus
+
+[... ...](https://github.com/Alalalalaki/UT_EH/tree/master/EH_Syllabus)
 
 ------
 
