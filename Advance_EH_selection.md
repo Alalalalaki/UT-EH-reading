@@ -1,5 +1,11 @@
 > EH papers selected by Alalalalaki based on solely personal interest. 
 
+Hanlon, W. W. (2017). [Evolving Comparative Advantage in International Shipbuilding During the Transition from Wood to Steel.](http://www.auburn.edu/~dza0013/hanlon_shipbuilding.pdf) Mimeo.
+
+Bonfatti, R., & O'Rourke, K. H. (2017). [Growth, Import Dependence, and War.](https://onlinelibrary.wiley.com/doi/abs/10.1111/ecoj.12511) The Economic Journal. -- [intro](http://www.res.org.uk/details/mediabrief/11097714/GROWTH-TRADE-AND-WAR-Economic-history-lessons-for-todays-global-powers.html?platform=hootsuite)
+
+Masato Shizume. (2017). [A History of the Bank of Japan,1882-2016](https://www.waseda.jp/fpse/winpec/assets/uploads/2014/05/No.E1719.pdf). Working paper.
+
 Wallis, P., Colson, J., & Chilosi, D. (2017). [Structural change and economic growth in the British economy before the Industrial Revolution, 1500-1800.](http://eprints.lse.ac.uk/84510/1/Wallis_Structural%20change_2017.pdf) Journal of Economic History.
 
 Ahlfeldt, G. M., Redding, S. J., Sturm, D. M., & Wolf, N. (2015). [The economics of density: Evidence from the Berlin Wall.](https://onlinelibrary.wiley.com/doi/pdf/10.3982/ECTA10876) Econometrica, 83(6), 2127-2189.
