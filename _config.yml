@@ -6,6 +6,6 @@ encoding: utf-8
 plugins: 
   - jekyll-github-metadata
 github : [metadata]
-repository: Alalalalaki/UT_EH # 自分のアカウントとリポジトリを書きましょう
+repository: Alalalalaki/UT_EH
 
 github: is_project_page: True
