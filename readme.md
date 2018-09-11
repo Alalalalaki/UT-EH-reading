@@ -33,15 +33,11 @@ An unofficial reading seminar for frontier or classic papers and books in Econom
 
 ------
 
-## Advance Paper Selections
-
-[... ...](https://github.com/Alalalalaki/UT_EH/blob/master/Advance_EH_selection.md)
+## [Advance Paper Selections](https://github.com/Alalalalaki/UT_EH/blob/master/Advance_EH_selection.md)
 
 -----
 
-## EH_Syllabus
-
-[... ...](https://github.com/Alalalalaki/UT_EH/tree/master/EH_Syllabus)
+## [EH_Syllabus](https://github.com/Alalalalaki/UT_EH/tree/master/EH_Syllabus)
 
 ------
 
