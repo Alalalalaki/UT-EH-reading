@@ -5,9 +5,9 @@ An unofficial reading seminar for frontier or classic papers and books in Econom
 
 <br />
 
-~~2] 2018/08/
+~~2] 2018/08/~~
 
-~~*Mokyr, J. (2016). A culture of growth: the origins of the modern economy. Princeton University Press. [Part I: Evolution, Culture, and Economic History](http://assets.press.princeton.edu/chapters/s10835.pdf).* 
+~~*Mokyr, J. (2016). A culture of growth: the origins of the modern economy. Princeton University Press. [Part I: Evolution, Culture, and Economic History](http://assets.press.princeton.edu/chapters/s10835.pdf).* ~~
 
 1] 2018/7/26 18:00
 
