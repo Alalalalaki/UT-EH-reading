@@ -8,4 +8,4 @@ plugins:
 github : [metadata]
 repository: Alalalalaki/UT_EH # 自分のアカウントとリポジトリを書きましょう
 
-github:   is_project_page: True
+github: is_project_page: True
