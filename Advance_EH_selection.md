@@ -1,5 +1,11 @@
 > EH papers selected by Alalalalaki based on solely personal interest. 
 
+Koyama, M., Moriguchi, C., & Sng, T. H. (2018). [Geopolitics and Asia’s Little Divergence: State Building in China and Japan After 1850.](https://www.sciencedirect.com/science/article/pii/S0167268118302348?via%3Dihub) JEBO. -- [intro](https://notesonliberty.com/2017/04/24/geopolitics-and-asias-little-divergence-state-building-in-china-and-japan-after-1850/) 
+
+Crafts, N. (2017). [The Postwar British Productivity Failure](https://warwick.ac.uk/fac/soc/economics/staff/nfrcrafts/working_papers/350-2017_crafts.pdf). Working paper.
+
+Broadberry, S. N., Guan, H., & Li, D. D. (2017). [China, Europe and the Great Divergence: a study in historical national accounting, 980-1850](https://www.nuffield.ox.ac.uk/users/broadberry/China14b%20clean.pdf). Working paper.
+
 Hanlon, W. W. (2017). [Evolving Comparative Advantage in International Shipbuilding During the Transition from Wood to Steel.](http://www.auburn.edu/~dza0013/hanlon_shipbuilding.pdf) Mimeo.
 
 Bonfatti, R., & O'Rourke, K. H. (2017). [Growth, Import Dependence, and War.](https://onlinelibrary.wiley.com/doi/abs/10.1111/ecoj.12511) The Economic Journal. -- [intro](http://www.res.org.uk/details/mediabrief/11097714/GROWTH-TRADE-AND-WAR-Economic-history-lessons-for-todays-global-powers.html?platform=hootsuite)
