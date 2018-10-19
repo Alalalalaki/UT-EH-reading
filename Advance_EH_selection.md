@@ -1,5 +1,15 @@
 > EH papers selected by Alalalalaki based on solely personal interest. 
 
+Akcigit, U, J Grigsby, T Nicholas and S Stantcheva (2018). [Taxation and innovation in the 20thcentury.](https://www.nber.org/papers/w24982) NBER Working Paper No. 24982. -- [intro](https://voxeu.org/article/taxation-and-innovation-20th-century#.W8ivPMbNJGs.twitter)
+
+Puga, D., & Trefler, D. (2014). [International trade and institutional change: Medieval Venice’s response to globalization.](https://watermark.silverchair.com/qju006.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAhYwggISBgkqhkiG9w0BBwagggIDMIIB_wIBADCCAfgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQM8ku9K62tEpsHkehWAgEQgIIByXZ4v7C_MAH-MfivWoNQzLX6aq-iWHRElsoq1lQeULR9Ls-f-CDmDnHEsZiQ-MhKwII6Uls_xV7fB4cqYYKIuLjtDxdgAO_4D5n6sdC95U7m5MP8jTn3vX9flkDNomv7GjkXB3u4ywM-W4MtwRxX-27-oDTlyoRiMVIl7YloibINVQI1I4YXEw_prrAiK8UunCV-mTqynGCxEvEt7rAFkElytHnnvSGKoMUqCWe3XAAoCT-Yj19jfQgEfb547Syru08zB0WLMrTeSloRkimKK2jfm5ZzBikw9QvVtRf9q2xDqWMKI2HJjd43DnzcyK8M_zdwugYsrghbFbSL_UCBMsV2hEuQ-oqrkBloikpU0kH1Z2bQjcB1P7i3JzbMqRmjqf4qKqaj-VTqjc0oNr1TW2fxHau3JILv6WzcQFh3Y9WjxOVq7hvLRQ2kDGNdUrxpU76i0VQoNlDF1D_-7RZaMHQ7IuqECrypo0WjwsJDgj8nOmL36pVS65fAis5fdNVhVWS9fvETPaIZIMuN2AKC_gDqhwT_8Z40NUrppRtH-RlG9dXLtsAKycsw4-atQTQydqt8e3OH_gdE9Dm3LN0g-l827cVAIJRHRBg) The Quarterly Journal of Economics, 129(2), 753-821.
+
+Gordon, R. J. (2018). [Declining American economic growth despite ongoing innovation](https://www.scholars.northwestern.edu/en/publications/declining-american-economic-growth-despite-ongoing-innovation). Explorations in Economic History, 69, 1-12.
+
+Nordhaus, W. D. (2007). [Two centuries of productivity growth in computing.](https://www.cambridge.org/core/journals/journal-of-economic-history/article/two-centuries-of-productivity-growth-in-computing/856EC5947A5857296D3328FA154BA3A3) The Journal of Economic History, 67(1), 128-159.
+
+Hannah, L. (2008). Logistics, market size, and giant plants in the early twentieth century: a global view. The Journal of Economic History, 68(1), 46-79.
+
 Koyama, M., Moriguchi, C., & Sng, T. H. (2018). [Geopolitics and Asia’s Little Divergence: State Building in China and Japan After 1850.](https://www.sciencedirect.com/science/article/pii/S0167268118302348?via%3Dihub) JEBO. -- [intro](https://notesonliberty.com/2017/04/24/geopolitics-and-asias-little-divergence-state-building-in-china-and-japan-after-1850/) 
 
 Crafts, N. (2017). [The Postwar British Productivity Failure](https://warwick.ac.uk/fac/soc/economics/staff/nfrcrafts/working_papers/350-2017_crafts.pdf). Working paper.
@@ -134,7 +144,7 @@ Henderson, J. V., Squires, T., Storeygard, A., & Weil, D. (2017). [The global di
 
 ---
 
-> Classic ones
+> Classic
 
 Acemoglu, D. (2002). [Directed technical change](https://economics.mit.edu/files/4126). The Review of Economic Studies, 69(4), 781-809. [--](https://twitter.com/PapadiaAndrea/status/1030568309568294912) 
 
