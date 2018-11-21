@@ -1,4 +1,32 @@
-> EH papers selected by Alalalalaki based on solely personal interest. 
+> EH papers selected by personal interest. 
+
+Iyigun, M., Rubin, J., & Seror, A. (2018). [A Theory of Conservative Revivals](https://www.chapman.edu/research/institutes-and-centers/economic-science-institute/_files/WorkingPapers/Iyigun-Rubin-Seror-2018.pdf). Working paper.
+
+Juhász, R., & Steinwender, C. (2018). [Spinning the Web: Codifiability, Information Frictions and Trade](http://www.rjuhasz.com/research/spinning_the_web_201810.pdf). Working paper.
+
+Yu Mandai and Masaki Nakabayashi, ["Stabilize the peasant economy: Governance of foreclosure by the Shogunate,"](https://sites.google.com/site/5600043jpn/articles)Journal of Policy Modeling, 40(2), pp. 305-327, March-April 2018.
+
+Parman, J. (2015). [Childhood health and sibling outcomes: Nurture Reinforcing nature during the 1918 influenza pandemic](https://www.sciencedirect.com/science/article/pii/S0014498315000364). Explorations in Economic History, 58, 22-43.
+
+Gray, R. (2013). [Taking technology to task: The skill content of technological change in early twentieth century united states.](https://www.sciencedirect.com/science/article/pii/S0014498313000144) Explorations in Economic History, 50(3), 351-367.
+
+Siodla, J. (2017). [Clean slate: Land-use changes in San Francisco after the 1906 disaster](https://www.sciencedirect.com/science/article/pii/S001449831730089X). Explorations in Economic History, 65, 1-16.
+
+Baten, J.,   Hippe, R. (2018). [Geography, land inequality and regional numeracy in Europe in historical perspective](https://link.springer.com/article/10.1007%2Fs10887-017-9151-1). Journal of Economic Growth, 23(1), 79-109.
+
+de Bromhead, Alan, Alan Fernihough, Markus Lampe and Kevin Hjortshøj O’Rourke (2018) ‘[When Britain Turned Inward: The Impact of Interwar British Protection](https://pure.qub.ac.uk/portal/files/128452830/w23164.pdf)’, American Economic Review, forthcoming. -- [intro](http://microeconomicinsights.org/impact-protection-trade-lessons-britains-1930s-policy-shift/)
+
+Dittmar, J., & Seabold, S. (2018). [New Media and Competition: Printing and Europe’s Transformation After Gutenberg.](http://www.jeremiahdittmar.com/files/new_media_revision.pdf) revise and resubmit at Journal of Political Economy.
+
+Dittmar, J., & Meisenzahl, R. (2017). [Public Goods Institutions, Human Capital, and Growth: Evidence from German History.](http://www.jeremiahdittmar.com/files/dm_publicgoods.pdf) forthcoming in Review of Economic Studies.
+
+Xu, Guo. 2018. ["The Costs of Patronage: Evidence from the British Empire.](https://www.aeaweb.org/articles?id=10.1257/aer.20171339&&from=f)" American Economic Review, 108 (11): 3170-98.
+
+Dell, M. (2010). [The persistent effects of Peru's mining mita](https://scholar.harvard.edu/files/dell/files/ecta8121_0.pdf). Econometrica, 78(6), 1863-1903.
+
+Wallis, P., Colson, J., & Chilosi, D. (2018). [Structural Change and Economic Growth in the British Economy before the Industrial Revolution, 1500–1800.](https://www.cambridge.org/core/journals/journal-of-economic-history/article/structural-change-and-economic-growth-in-the-british-economy-before-the-industrial-revolution-15001800/55BC9B7A6B2E195033DE3837D3C085EC#.W85QRkle7Ho.twitter) The Journal of Economic History, 78(3), 862-903.
+
+de Pleijt, A, A Nuvolari and J Weisdorf (2018), [“Human capital formation during the First Industrial Revolution: Evidence from the use of steam engines,”](https://cepr.org/active/publications/discussion_papers/dp.php?dpno=12987) CEPR, Discussion Paper 12987.
 
 Akcigit, U, J Grigsby, T Nicholas and S Stantcheva (2018). [Taxation and innovation in the 20thcentury.](https://www.nber.org/papers/w24982) NBER Working Paper No. 24982. -- [intro](https://voxeu.org/article/taxation-and-innovation-20th-century#.W8ivPMbNJGs.twitter)
 

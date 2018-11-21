@@ -21,3 +21,11 @@
 [Code and Data for the Social Sciences: A Practitioner’s Guide](https://web.stanford.edu/~gentzkow/research/CodeAndData.pdf)
 
 [Historical account books as a source for quantitative history](https://www.rug.nl/ggdc/historicaldevelopment/maddison/publications/wp13.pdf)
+
+---
+
+### 日本経済史
+
+[中村隆英先生と経済史](http://www.isr.or.jp/TokeiKen/pdf/gakusai/1_10.pdf#search='%E6%88%A6%E5%BE%8C%E3%81%AE%E5%B7%A5%E6%A5%AD%E7%B5%B1%E8%A8%88+%E4%B8%AD%E6%9D%91%E9%9A%86%E8%8B%B1')
+
+[経済史研究と資料](https://oisr-org.ws.hosei.ac.jp/images/oz/contents/719%EF%BD%A5720_07.pdf) 
