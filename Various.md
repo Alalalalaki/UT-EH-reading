@@ -10,6 +10,10 @@
 
 ---
 
+[Publishing Economic History](https://s3.amazonaws.com/vu-my/wp-content/uploads/sites/1997/2015/12/28094008/Publishing-Economic-History.pdf)
+
+---
+
 [The 12 Step Program for Grad School](http://www.ericzwick.com/public_goods/twelve_steps.pdf)
 
 [How I Learned to Stop Worrying and Love the Job Market](http://www.ericzwick.com/public_goods/love_the_market.pdf)

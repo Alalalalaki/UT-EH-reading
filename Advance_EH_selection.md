@@ -1,5 +1,25 @@
 > EH papers selected by personal interest. 
 
+Nunn, N., & Wantchekon, L. (2011). [The slave trade and the origins of mistrust in Africa.](https://www.jstor.org/stable/pdf/41408736.pdf) American Economic Review, 101(7), 3221-52.
+
+Allen, T., & Donaldson, D. (2018). [The geography of path dependence.](https://dave-donaldson.com/research/) Working Paper.
+
+Costinot, A., & Donaldson, D. (2016). [How large are the gains from economic integration? Theory and evidence from US agriculture, 1880-1997](https://dave-donaldson.com/research/#tab-id-1) (No. w22946). National Bureau of Economic Research.
+
+Fenoaltea, S. (2018). [Spleen: the failures of the cliometric school.](https://mpra.ub.uni-muenchen.de/90210/1/MPRA_paper_90210.pdf) Discussion paper.
+
+Fenoaltea, S. (2015). [The measurement of production movements: Lessons from the general engineering industry in Italy, 1861–1913.](https://www.sciencedirect.com/science/article/abs/pii/S0014498315000248) Explorations in Economic History, 57, 19-37.
+
+Mokyr, J. (2018). [The Past and the Future of Innovation: some lessons from Economic History](https://www.sciencedirect.com/science/article/pii/S0014498318300548?utm_campaign=MCRED_LSS_TW_Finance&sf203757604=1). Explorations in Economic History.
+
+Kelly, B., Papanikolaou, D., Seru, A., & Taddy, M. (2018). [Measuring technological innovation over the long run](https://www.nber.org/papers/w25266?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg14) (No. w25266). National Bureau of Economic Research.
+
+Belloc, M., & Bowles, S. (2017). [Persistence and Change in Culture and Institutions under Autarchy, Trade, and Factor Mobility.](http://tuvalu.santafe.edu/~bowles/2017%20AEJ%20(Belloc%20Bowles).pdf) American Economic Journal: Microeconomics, 9(4), 245-76.
+
+Deirdre McCloskey. (2018). ["How Growth Happens: Liberalism, Innovism, and the Great Enrichment".](https://northwestern.app.box.com/s/ehioi7npn42h61zve03pfu6w8jj6iwhu) Working paper.
+
+Juhász, R. (2018). [Temporary protection and technology adoption: Evidence from the napoleonic blockade](https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.20151730). American Economic Review, 108(11), 3339-76. 
+
 Iyigun, M., Rubin, J., & Seror, A. (2018). [A Theory of Conservative Revivals](https://www.chapman.edu/research/institutes-and-centers/economic-science-institute/_files/WorkingPapers/Iyigun-Rubin-Seror-2018.pdf). Working paper.
 
 Juhász, R., & Steinwender, C. (2018). [Spinning the Web: Codifiability, Information Frictions and Trade](http://www.rjuhasz.com/research/spinning_the_web_201810.pdf). Working paper.
@@ -118,6 +138,8 @@ Matranga, A. (2017). [The Ant and the Grasshopper: Seasonality and the Invention
 
 Putterman, L., & Weil, D. N. (2010). [Post-1500 population flows and the long-run determinants of economic growth and inequality.](https://watermark.silverchair.com/125-4-1627.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAckwggHFBgkqhkiG9w0BBwagggG2MIIBsgIBADCCAasGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMJooU2861jm8Hllw4AgEQgIIBfC4Kk4LTm-aSQ7lZPbzLuDxs45cc5bk9YvrCuaHs22UsD8jkdMxbdwT666StXoGodQjF_OCWXYnoMUhub4oiYOwoGOg25sPElMjrfNu6RKU6rSlDvVwmzVH06wjRbIcTLpGZa2S3tnO7OxI7fhkDAQUgfjgLe13RLewkRxR5wrnKJIQ9Nm36RjbyvbSaGWf3Ni5jicfcvCfvTu2KGA4r0qkzxtzxSvTzoTmXQJ6cLHqXk48xfWjpJhLfr7_vX04JlRxZ9ZI2NkOriWElfvjiB2QFySQKQ8B3hRp-TGcH9RNB6tte8rIWxa9eGubBg3VC3UvbP8Q-iJN_4m8j43U4LMQB6nXIcf57CvsJO4oxQXTuPVgbf9alah7qXX0-_ck_EY6rHe-MBAByHjkAWiN2ju_urhQBL3rUq4Z9YgXt1deXOe8_SYuD1c9tofAhjIOYEhMkTQi11TV_zJ2YHudKeMEZuvmeu2SCWRzVaf0hi2Z8IlfSLQyVFpETUKxv) The Quarterly journal of economics, 125(4), 1627-1682.
 
+Donaldson, D. (2018). [Railroads of the Raj: Estimating the impact of transportation infrastructure.](https://dave-donaldson.com/wp-content/uploads/2018/03/Donaldson_RRRaj_AER.pdf) American Economic Review, 108(4-5), 899-934.
+
 Donaldson, Dave, and Richard Hornbeck. 2016. ["Railroads and American Economic Growth: A "Market Access" Approach"](http://faculty.chicagobooth.edu/richard.hornbeck/research/papers/Railroads_DH_2016.pdf). Quarterly Journal of Economics 131(2): 799-858. [Railroad Network Data, 1830-1920.](http://faculty.chicagobooth.edu/richard.hornbeck/research/files/RR_NetworkDatabase_DH_Oct2015%20(1).rar)[ Replication Files.](https://www.dropbox.com/s/iys8bsu2ygt4lvu/Railroads_DH_Oct2015_ReplicationFiles.rar?dl=0) [Appendix.](http://faculty.chicagobooth.edu/richard.hornbeck/research/papers/Railroads_DH_26Oct2015_OnlineAppendix.pdf)
 
 Burgess, R., & Donaldson, D. (2012). [Railroads and the demise of famine in colonial india](http://www.lse.ac.uk/economics/Assets/Documents/personal-pages/robin-burgess/railroads-and-the-demise-of-famine.pdf). Manuscript. Retrieved June, 5, 2017. [--](https://www.douban.com/photos/photo/2518015942/#image) 
@@ -174,6 +196,12 @@ Henderson, J. V., Squires, T., Storeygard, A., & Weil, D. (2017). [The global di
 
 > Classic
 
+Conrad, A. H., & Meyer, J. R. (1958). [The economics of slavery in the ante bellum South](https://www.jstor.org/stable/pdf/1827270.pdf). Journal of Political Economy, 66(2), 95-130.
+
+Mehlum, H., Moene, K., & Torvik, R. (2006). [Institutions and the resource curse](https://www.onlinelibrary.wiley.com/doi/full/10.1111/j.1468-0297.2006.01045.x?platform=hootsuite). The economic journal, 116(508), 1-20.
+
+Acemoglu, D., Johnson, S., & Robinson, J. (2005). [The rise of Europe: Atlantic trade, institutional change, and economic growth.](https://www.jstor.org/stable/pdf/4132729.pdf?casa_token=8hNHbI6f2WcAAAAA:gzZjzKHAAnjIaGHIvRP4beasGCXufbaEJIBx_i0UjetWRK9rDpnCLEB0m04RCgcfquobeDyFEdultEi9JC93A84PwjQ0OtAVBW339PIDC5Zlr47EZlPL-Q) American economic review, 95(3), 546-579.
+
 Acemoglu, D. (2002). [Directed technical change](https://economics.mit.edu/files/4126). The Review of Economic Studies, 69(4), 781-809. [--](https://twitter.com/PapadiaAndrea/status/1030568309568294912) 
 
 Lamoreaux, N. R., Raff, D. M., & Temin, P. (2003). [Beyond markets and hierarchies: Toward a new synthesis of American business history.](https://faculty.wharton.upenn.edu/wp-content/uploads/2002/07/Beyond_Markets-and-_Hierarchies.pdf) The American Historical Review, 108(2), 404-433.
@@ -185,6 +213,8 @@ Clark, G. (1994). [Factory discipline.](https://www.cambridge.org/core/journals/
 Bell, F. W. (1968). [The Pope and the price of fish](https://www.jstor.org/stable/pdf/1814033.pdf). The American Economic Review, 58(5), 1346-1350.
 
 Arthur, W. B. (1989). [Competing technologies, increasing returns, and lock-in by historical events](http://www.jstor.org/stable/pdf/2234208.pdf). The economic journal, 99(394), 116-131.
+
+Crafts, N. F. (1996). [The first industrial revolution: A guided tour for growth economists.](https://www.jstor.org/stable/pdf/2118122.pdf) The American Economic Review, 197-201.
 
 David, P. A. (2001). [Path dependence, its critics and the quest for ‘historical economics’](file:///Users/alalalalaki/Desktop/Institution%20&%20EH/path%20dependence/Path%20dependence%20its%20critics%20and%20the%20quest%20for%20'historical%20economics'%20PA%20David%20Evolution%20and%20path%20dependence%20in%20economic%20ideas%202001.pdf). Evolution and path dependence in economic ideas: Past and present, 15, 40.
 
