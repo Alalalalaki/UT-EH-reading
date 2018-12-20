@@ -1,5 +1,11 @@
 > EH papers selected by personal interest. 
 
+Hao, Y., & Xue, M. M. (2017). [Friends from afar: The Taiping Rebellion, cultural proximity and primary schooling in the Lower Yangzi, 1850–1949.](https://www.sciencedirect.com/science/article/abs/pii/S0014498316302030) Explorations in Economic History, 63, 44-69.
+
+Hunter, J., & Ogasawara, K. (2018). [Price shocks in regional markets: Japan's Great Kantō Earthquake of 1923.](https://onlinelibrary.wiley.com/doi/full/10.1111/ehr.12775) The Economic History Review.
+
+Bassino, J. P., Broadberry, S., Fukao, K., Gupta, B., & Takashima, M. (2018). [Japan and the Great Divergence, 730-1874.](https://www.sciencedirect.com/science/article/pii/S0014498317300992) Explorations in Economic History. 
+
 Nunn, N., & Wantchekon, L. (2011). [The slave trade and the origins of mistrust in Africa.](https://www.jstor.org/stable/pdf/41408736.pdf) American Economic Review, 101(7), 3221-52.
 
 Allen, T., & Donaldson, D. (2018). [The geography of path dependence.](https://dave-donaldson.com/research/) Working Paper.
