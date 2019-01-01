@@ -1,5 +1,9 @@
 > EH papers selected by personal interest. 
 
+Bridgman, B., Qi, S., & Schmitz Jr, J. A. (2015). C[artels Destroy Productivity: Evidence from the New Deal Sugar Manufacturing Cartel, 1934-74.](https://sites.google.com/site/shiqiecon/research?authuser=0) Federal Reserve Bank of Minneapolis Staff Report, 519.
+
+Galor, O., Özak, Ö., & Sarid, A. (2018). [Geographical Roots of the Coevolution of Cultural and Linguistic Traits.](https://www.nber.org/papers/w25289?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg14) NBER working paper.
+
 Hao, Y., & Xue, M. M. (2017). [Friends from afar: The Taiping Rebellion, cultural proximity and primary schooling in the Lower Yangzi, 1850–1949.](https://www.sciencedirect.com/science/article/abs/pii/S0014498316302030) Explorations in Economic History, 63, 44-69.
 
 Hunter, J., & Ogasawara, K. (2018). [Price shocks in regional markets: Japan's Great Kantō Earthquake of 1923.](https://onlinelibrary.wiley.com/doi/full/10.1111/ehr.12775) The Economic History Review.
