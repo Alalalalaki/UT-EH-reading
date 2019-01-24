@@ -1,5 +1,19 @@
 > EH papers selected by personal interest. 
 
+Temin, P. (2014). [The Rise and Fall of Economic History at MIT](https://dspace.mit.edu/bitstream/handle/1721.1/82912/Temin13-11REV.pdf%3Bjsessionid%3D8BA2D1E9927529B7E56D9445BDB7E7BC?sequence%3D3). History of Political Economy, 46(suppl_1), 337-350.
+
+Jaworski, T., and Smyth, A. (2018). [Shakeout in the early commercial airframe industry.](https://onlinelibrary.wiley.com/doi/abs/10.1111/ehr.12430) The Economic History Review, 71(2), 617–638.
+
+Hanlon, W. W. (2017). [Temporary Shocks and Persistent Effects in Urban Economies: Evidence from British Cities after the US Civil War](https://www.mitpressjournals.org/doi/pdfplus/10.1162/REST_a_00621?casa_token=g0dfVcl-7SUAAAAA:veHN12QJ5oxfFnxT6_WOlMKPcjwLvmpvs4vwCHiN1g3-gfxrI3msnCSqJNtkBQaz0eWSVtvItBWH8qM). Review of Economics and Statistics, 99(1), 67-79.
+
+Hanlon, W. (2018). [The Persistent Effect of Temporary Input Cost Advantages in Shipbuilding, 1850-1911.](http://walkerhanlon.com/) Working Paper. 
+
+Hanlon, W. W. (2015). [Necessity is the mother of invention: Input supplies and Directed Technical Change.](https://www.jstor.org/stable/pdf/43616922.pdf) Econometrica, 83(1), 67-100.
+
+Bodenhorn, H. (2017). [Were Nineteenth-Century Industrial Workers Permanent Income Savers?](https://onlinelibrary.wiley.com/doi/full/10.1002/soej.12335) (No. w23948). National Bureau of Economic Research.
+
+Giorcelli, Michela. 2019. ["The Long-Term Effects of Management and Technology Transfers."](https://www.aeaweb.org/articles?id=10.1257/aer.20170619) American Economic Review, 109 (1): 121-52.
+
 Bridgman, B., Qi, S., & Schmitz Jr, J. A. (2015). C[artels Destroy Productivity: Evidence from the New Deal Sugar Manufacturing Cartel, 1934-74.](https://sites.google.com/site/shiqiecon/research?authuser=0) Federal Reserve Bank of Minneapolis Staff Report, 519.
 
 Galor, O., Özak, Ö., & Sarid, A. (2018). [Geographical Roots of the Coevolution of Cultural and Linguistic Traits.](https://www.nber.org/papers/w25289?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg14) NBER working paper.
@@ -205,6 +219,10 @@ Henderson, J. V., Squires, T., Storeygard, A., & Weil, D. (2017). [The global di
 ---
 
 > Classic
+
+Abadie, A., & Gardeazabal, J. (2003). [The economic costs of conflict: A case study of the Basque Country.](https://www.jstor.org/stable/pdf/3132164.pdf) American economic review, 93(1), 113-132.
+
+Gráda, C. Ó. (2007). [Making famine history](https://www.jstor.org/stable/pdf/27646746.pdf?casa_token=OSoGfaILMlgAAAAA:AYKrl7ytodYSpQ4mOBvf7edzOjZyKgOKOV0RJEVnA2o03N7x9-CVwmKYzjaJ9TczTW5kfCe2AJ0dgHm1no5YlulaEtZTeKCixA15NyEoqmY_Ur9TREF5Lg). Journal of Economic Literature, 45(1), 5-38.
 
 Conrad, A. H., & Meyer, J. R. (1958). [The economics of slavery in the ante bellum South](https://www.jstor.org/stable/pdf/1827270.pdf). Journal of Political Economy, 66(2), 95-130.
 
