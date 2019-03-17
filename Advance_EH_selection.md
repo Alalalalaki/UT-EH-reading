@@ -1,5 +1,21 @@
 > EH papers selected by personal interest. 
 
+Bologna Pavlik, J., & Young, A. T. (2018). [Did Technology Transfer More Rapidly East-West than North-South?](https://sites.google.com/site/ayoungeconomist/home/working-papers-1). Working paper. 
+
+Ma, D., & Rubin, J. (2019). The Paradox of Power: Principal-Agent Problems & Administrative Capacity in Imperial China (& other Absolutist Regimes). forthcoming in J Comparative Economics. 
+
+Michaels, G., & Rauch, F. (2017). [Resetting the urban network: 117–2012](https://onlinelibrary.wiley.com/doi/pdf/10.1111/ecoj.12424). The Economic Journal, 128(608), 378-412. 
+
+Fan, X., & Wu, L. (2018). [The economic motives of foot-binding.](http://www.lingweiwu.com/uploads/8/8/2/8/88283668/fbpaper18dec.pdf) Job Market Paper. 
+
+Becuwe, S., Blancheton, B., & Meissner, C. M. (2018). [International Competition and Adjustment: Evidence from the First Great Liberalization](https://www.nber.org/papers/w25173) (No. w25173). National Bureau of Economic Research.
+
+Troesken, W. (2010). [The Elasticity of Demand With Respect to Product Failures; or Why the Market for Quack Medicines Flourished for More Than 150 Years](https://www.nber.org/papers/w15699.pdf) (No. w15699). National Bureau of Economic Research. 
+
+De Bromhead, A., Fernihough, A., Lampe, M., & O'Rourke, K. H. (2018). [When Britain turned inward: The impact of Interwar British protection](https://www.aeaweb.org/articles?id=10.1257/aer.20172020). American Economic Review. 
+
+Dell, M., Lane, N., & Querubin, P. (2018). [The historical state, local collective action, and economic development in Vietnam.](https://sci-hub.tw/https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA15122) Econometrica, 86(6), 2083-2121. 
+
 Temin, P. (2014). [The Rise and Fall of Economic History at MIT](https://dspace.mit.edu/bitstream/handle/1721.1/82912/Temin13-11REV.pdf%3Bjsessionid%3D8BA2D1E9927529B7E56D9445BDB7E7BC?sequence%3D3). History of Political Economy, 46(suppl_1), 337-350.
 
 Jaworski, T., and Smyth, A. (2018). [Shakeout in the early commercial airframe industry.](https://onlinelibrary.wiley.com/doi/abs/10.1111/ehr.12430) The Economic History Review, 71(2), 617–638.
@@ -96,7 +112,7 @@ Masato Shizume. (2017). [A History of the Bank of Japan,1882-2016](https://www.w
 
 Wallis, P., Colson, J., & Chilosi, D. (2017). [Structural change and economic growth in the British economy before the Industrial Revolution, 1500-1800.](http://eprints.lse.ac.uk/84510/1/Wallis_Structural%20change_2017.pdf) Journal of Economic History.
 
-Ahlfeldt, G. M., Redding, S. J., Sturm, D. M., & Wolf, N. (2015). [The economics of density: Evidence from the Berlin Wall.](https://onlinelibrary.wiley.com/doi/pdf/10.3982/ECTA10876) Econometrica, 83(6), 2127-2189.
+Ahlfeldt, G. M., Redding, S. J., Sturm, D. M., & Wolf, N. (2015). [The economics of density: Evidence from the Berlin Wall.](https://onlinelibrary.wiley.com/doi/pdf/10.3982/ECTA10876) Econometrica, 83(6), 2127-2189. -- [intro](http://cep.lse.ac.uk/pubs/download/cp546.pdf)
 
 Kota Ogasawara, Mizuki Komura. (2018) .[Consequences of war: Japan's demographic transition and the marriage market.](https://sites.google.com/site/kmrmzk2012/japanese/research) Working paper.
 
