@@ -1,6 +1,14 @@
 > EH papers selected by personal interest. 
 
+Robert A. Margo. (2018). The Economic History Requirement: Past, Present, Future.
+
+Diebolt, C., & Haupert, M. (2018). We are Ninjas: How Economic History has Infiltrated Economics. / The Vital Tools: How Economic History Complements and Completes the Training of an Economist.
+
+Maurer, S., Pischke, J. S., & Rauch, F. (2017). Of mice and mercfhants: Trade and growth in the iron age. London School of Economics mimeo. -- [intro](http://cep.lse.ac.uk/pubs/download/cp547.pdf)
+
 Bologna Pavlik, J., & Young, A. T. (2018). [Did Technology Transfer More Rapidly East-West than North-South?](https://sites.google.com/site/ayoungeconomist/home/working-papers-1). Working paper. 
+
+Gales, B., Kander, A., Malanima, P., & Rubio, M. (2007). North versus South: Energy transition and energy intensity in Europe over 200 years. European Review of Economic History, 11(2), 219-253. -- [WB data blog](https://ourworldindata.org/energy-production-and-changing-energy-sources)
 
 Ma, D., & Rubin, J. (2019). The Paradox of Power: Principal-Agent Problems & Administrative Capacity in Imperial China (& other Absolutist Regimes). forthcoming in J Comparative Economics. 
 
@@ -78,7 +86,7 @@ de Bromhead, Alan, Alan Fernihough, Markus Lampe and Kevin Hjortshøj O’Rourke
 
 Dittmar, J., & Seabold, S. (2018). [New Media and Competition: Printing and Europe’s Transformation After Gutenberg.](http://www.jeremiahdittmar.com/files/new_media_revision.pdf) revise and resubmit at Journal of Political Economy.
 
-Dittmar, J., & Meisenzahl, R. (2017). [Public Goods Institutions, Human Capital, and Growth: Evidence from German History.](http://www.jeremiahdittmar.com/files/dm_publicgoods.pdf) forthcoming in Review of Economic Studies.
+Dittmar, J., & Meisenzahl, R. (2017). [Public Goods Institutions, Human Capital, and Growth: Evidence from German History.](http://www.jeremiahdittmar.com/files/dm_publicgoods.pdf) forthcoming in Review of Economic Studies. -- [intro](http://cep.lse.ac.uk/pubs/download/cp544.pdf)
 
 Xu, Guo. 2018. ["The Costs of Patronage: Evidence from the British Empire.](https://www.aeaweb.org/articles?id=10.1257/aer.20171339&&from=f)" American Economic Review, 108 (11): 3170-98.
 
@@ -112,7 +120,7 @@ Masato Shizume. (2017). [A History of the Bank of Japan,1882-2016](https://www.w
 
 Wallis, P., Colson, J., & Chilosi, D. (2017). [Structural change and economic growth in the British economy before the Industrial Revolution, 1500-1800.](http://eprints.lse.ac.uk/84510/1/Wallis_Structural%20change_2017.pdf) Journal of Economic History.
 
-Ahlfeldt, G. M., Redding, S. J., Sturm, D. M., & Wolf, N. (2015). [The economics of density: Evidence from the Berlin Wall.](https://onlinelibrary.wiley.com/doi/pdf/10.3982/ECTA10876) Econometrica, 83(6), 2127-2189. -- [intro](http://cep.lse.ac.uk/pubs/download/cp546.pdf)
+Ahlfeldt, G. M., Redding, S. J., Sturm, D. M., & Wolf, N. (2015). [The economics of density: Evidence from the Berlin Wall.](https://onlinelibrary.wiley.com/doi/pdf/10.3982/ECTA10876) Econometrica, 83(6), 2127-2189. -- [intro1](http://microeconomicinsights.org/economics-density-evidence-berlin-wall/) [2](http://cep.lse.ac.uk/pubs/download/cp546.pdf)
 
 Kota Ogasawara, Mizuki Komura. (2018) .[Consequences of war: Japan's demographic transition and the marriage market.](https://sites.google.com/site/kmrmzk2012/japanese/research) Working paper.
 
@@ -140,7 +148,7 @@ Allen, R. C., Bassino, J. P., Ma, D., Moll‐Murata, C., & Van Zanden, J. L. (20
 
 Greif, A., & Mokyr, J. (2017). [Cognitive rules, institutions, and economic growth: Douglass North and beyond](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/9246B44AE24CF2BDFC88BA7A6A0E2E4E/S1744137416000370a.pdf/cognitive_rules_institutions_and_economic_growth_douglass_north_and_beyond.pdf). Journal of Institutional Economics, 13(1), 25-52.
 
-Heblich, S., Redding, S. J., & Sturm, D. M. (2017). [The Making of the Modern Metropolis: Evidence from London](http://personal.lse.ac.uk/sturmd/papers/wp/MMM_20Sept2017.pdf). Discussion paper. 
+Heblich, S., Redding, S. J., & Sturm, D. M. (2017). [The Making of the Modern Metropolis: Evidence from London](http://personal.lse.ac.uk/sturmd/papers/wp/MMM_20Sept2017.pdf). Discussion paper. -- [intro](http://cep.lse.ac.uk/pubs/download/cp548.pdf)
 
 Ciccarelli, C., De Fraja, G., & Tiezzi, S. (2018). [How Hard Is It to Maximise Profit? Evidence from a 19-th Century Italian State Monopoly](ftp://www.ceistorvergata.it/RePEc/rpaper/RP434.pdf). Discussion Paper. [--](https://www.douban.com/photos/photo/2527874216/)
 
