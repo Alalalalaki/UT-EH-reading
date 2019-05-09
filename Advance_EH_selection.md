@@ -1,6 +1,16 @@
 > EH papers selected by personal interest. 
 
-Robert A. Margo. (2018). The Economic History Requirement: Past, Present, Future.
+
+
+Steinwender, C. (2018). Real effects of information frictions: When the states and the kingdom became united. American Economic Review, 108(3), 657-96.
+
+Gross, Daniel P. "[Scale versus Scope in the Diffusion of New Technology: Evidence from the Farm Tractor.](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=772591&facInfo=pub)" RAND Journal of Economics 49, no. 2 (Summer 2018): 427–452.
+
+Gross, Daniel P. "[The Ties That Bind: Railroad Gauge Standards, Collusion, and Internal Trade in the 19th Century U.S.](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=772591&facInfo=pub)" Harvard Business School Working Paper, No. 17-044, December 2016. (Revised February 2019.)
+
+Abramitzky, R. (2015). Economics and the modern economic historian. The Journal of Economic History, 75(4), 1240-1251.
+
+Robert A. Margo. (2018). The Economic History Requirement: Past, Present, Future. Working paper.
 
 Diebolt, C., & Haupert, M. (2018). We are Ninjas: How Economic History has Infiltrated Economics. / The Vital Tools: How Economic History Complements and Completes the Training of an Economist.
 
@@ -46,7 +56,7 @@ Hao, Y., & Xue, M. M. (2017). [Friends from afar: The Taiping Rebellion, cultura
 
 Hunter, J., & Ogasawara, K. (2018). [Price shocks in regional markets: Japan's Great Kantō Earthquake of 1923.](https://onlinelibrary.wiley.com/doi/full/10.1111/ehr.12775) The Economic History Review.
 
-Bassino, J. P., Broadberry, S., Fukao, K., Gupta, B., & Takashima, M. (2018). [Japan and the Great Divergence, 730-1874.](https://www.sciencedirect.com/science/article/pii/S0014498317300992) Explorations in Economic History. 
+Bassino, J. P., Broadberry, S., Fukao, K., Gupta, B., & Takashima, M. (2018). [Japan and the Great Divergence, 730-1874.](https://www.sciencedirect.com/science/article/pii/S0014498317300992) Explorations in Economic History. - [intro](https://gendai.ismedia.jp/articles/-/55269)
 
 Nunn, N., & Wantchekon, L. (2011). [The slave trade and the origins of mistrust in Africa.](https://www.jstor.org/stable/pdf/41408736.pdf) American Economic Review, 101(7), 3221-52.
 
