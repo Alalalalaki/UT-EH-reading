@@ -1,6 +1,14 @@
 > EH papers selected by personal interest. 
 
+Bassino, J. and van der Eng, P. (2019), Asia's ‘little divergence’ in the twentieth century: evidence from PPP‐based direct estimates of GDP per capita, 1913–69. The Economic History Review.
 
+Watzinger, M., Fackler, T. A., Nagler, M., & Schnitzer, M. (2017). How antitrust enforcement can spur innovation: Bell Labs and the 1956 Consent Decree.
+
+Cioni, M., Federico, G., & Vasta, M. (2019). The long-term evolution of economic history: evidence from the top five field journals (1927–2017). Cliometrica, 1-39.
+
+Saez, E., & Zucman, G. (2016). Wealth inequality in the United States since 1913: Evidence from capitalized income tax data. The Quarterly Journal of Economics, 131(2), 519-578. 
+
+Piketty, T., & Zucman, G. (2014). Capital is back: Wealth-income ratios in rich countries 1700–2010. The Quarterly Journal of Economics, 129(3), 1255-1310. 
 
 Steinwender, C. (2018). Real effects of information frictions: When the states and the kingdom became united. American Economic Review, 108(3), 657-96.
 

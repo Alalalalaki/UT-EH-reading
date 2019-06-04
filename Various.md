@@ -14,6 +14,10 @@
 
 [The Ten Most Important Rules of Writing Your Job Market Paper ](https://economics.harvard.edu/files/economics/files/tenruleswriting.pdf)
 
+[Economical Writing by McCloskey](http://www.deirdremccloskey.com/docs/pdf/Article_86.pdf)
+
+[Writing Class Twitter Copy (slides)](https://twitter.com/economistified/status/895708590329126912)
+
 ---
 
 [Publishing Economic History](https://s3.amazonaws.com/vu-my/wp-content/uploads/sites/1997/2015/12/28094008/Publishing-Economic-History.pdf)
