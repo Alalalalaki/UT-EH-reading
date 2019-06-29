@@ -1,5 +1,19 @@
 > EH papers selected by personal interest. 
 
+
+
+Gentzkow, M., Shapiro, J. M., & Sinkinson, M. (2014). Competition and ideological diversity: Historical evidence from us newspapers. *American Economic Review*, 104(10), 3073-3114.
+
+Madsen, J. B., Robertson, P. E., & Ye, L. (2019). Malthus Was Right: Explaining a Millennium of Stagnation. *European Economic Review*.
+
+Corcoran, S. P., Evans, W. N., & Schwab, R. M. (2004). Changing labor-market opportunities for women and the quality of teachers, 1957-2000. American Economic Review, 94(2), 230-235.
+
+Smith, E. (2018). The global interests of London's commercial community, 1599–1625: investment in the East India Company. The Economic History Review, 71(4), 1118-1146.
+
+Kelly, M., Mokyr, J., & Gráda, C. Ó. (2014). Precocious Albion: a new interpretation of the British industrial revolution. Annu. Rev. Econ., 6(1), 363-389.
+
+Kelly, M., & Ó Gráda, C. (2016). Adam Smith, watch prices, and the industrial revolution. *The Quarterly Journal of Economics*, *131*(4), 1727-1752.
+
 Bassino, J. and van der Eng, P. (2019), Asia's ‘little divergence’ in the twentieth century: evidence from PPP‐based direct estimates of GDP per capita, 1913–69. The Economic History Review.
 
 Watzinger, M., Fackler, T. A., Nagler, M., & Schnitzer, M. (2017). How antitrust enforcement can spur innovation: Bell Labs and the 1956 Consent Decree.
