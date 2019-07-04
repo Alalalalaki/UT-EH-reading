@@ -2,11 +2,13 @@
 
 
 
+Muller, N. Z. (2019). Time Preference and the Great Depression: Evidence from Firewood Prices in Portland, Oregon (No. w25997). National Bureau of Economic Research.
+
 Gentzkow, M., Shapiro, J. M., & Sinkinson, M. (2014). Competition and ideological diversity: Historical evidence from us newspapers. *American Economic Review*, 104(10), 3073-3114.
 
 Madsen, J. B., Robertson, P. E., & Ye, L. (2019). Malthus Was Right: Explaining a Millennium of Stagnation. *European Economic Review*.
 
-Corcoran, S. P., Evans, W. N., & Schwab, R. M. (2004). Changing labor-market opportunities for women and the quality of teachers, 1957-2000. American Economic Review, 94(2), 230-235.
+Corcoran, S. P., Evans, W. N., & Schwab, R. M. (2004). Changing labor-market opportunities for women and the quality of teachers, 1957-2000. *American Economic Review*, 94(2), 230-235.
 
 Smith, E. (2018). The global interests of London's commercial community, 1599–1625: investment in the East India Company. The Economic History Review, 71(4), 1118-1146.
 
@@ -20,9 +22,9 @@ Watzinger, M., Fackler, T. A., Nagler, M., & Schnitzer, M. (2017). How antitrust
 
 Cioni, M., Federico, G., & Vasta, M. (2019). The long-term evolution of economic history: evidence from the top five field journals (1927–2017). Cliometrica, 1-39.
 
-Saez, E., & Zucman, G. (2016). Wealth inequality in the United States since 1913: Evidence from capitalized income tax data. The Quarterly Journal of Economics, 131(2), 519-578. 
+Saez, E., & Zucman, G. (2016). Wealth inequality in the United States since 1913: Evidence from capitalized income tax data. *The Quarterly Journal of Economics*, 131(2), 519-578. 
 
-Piketty, T., & Zucman, G. (2014). Capital is back: Wealth-income ratios in rich countries 1700–2010. The Quarterly Journal of Economics, 129(3), 1255-1310. 
+Piketty, T., & Zucman, G. (2014). Capital is back: Wealth-income ratios in rich countries 1700–2010. The *Quarterly Journal of Economics*, 129(3), 1255-1310. 
 
 Steinwender, C. (2018). Real effects of information frictions: When the states and the kingdom became united. American Economic Review, 108(3), 657-96.
 
@@ -52,19 +54,19 @@ Becuwe, S., Blancheton, B., & Meissner, C. M. (2018). [International Competition
 
 Troesken, W. (2010). [The Elasticity of Demand With Respect to Product Failures; or Why the Market for Quack Medicines Flourished for More Than 150 Years](https://www.nber.org/papers/w15699.pdf) (No. w15699). National Bureau of Economic Research. 
 
-De Bromhead, A., Fernihough, A., Lampe, M., & O'Rourke, K. H. (2018). [When Britain turned inward: The impact of Interwar British protection](https://www.aeaweb.org/articles?id=10.1257/aer.20172020). American Economic Review. 
+De Bromhead, A., Fernihough, A., Lampe, M., & O'Rourke, K. H. (2018). [When Britain turned inward: The impact of Interwar British protection](https://www.aeaweb.org/articles?id=10.1257/aer.20172020). *American Economic Review*. 
 
-Dell, M., Lane, N., & Querubin, P. (2018). [The historical state, local collective action, and economic development in Vietnam.](https://sci-hub.tw/https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA15122) Econometrica, 86(6), 2083-2121. 
+Dell, M., Lane, N., & Querubin, P. (2018). [The historical state, local collective action, and economic development in Vietnam.](https://sci-hub.tw/https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA15122) *Econometrica*, 86(6), 2083-2121. 
 
 Temin, P. (2014). [The Rise and Fall of Economic History at MIT](https://dspace.mit.edu/bitstream/handle/1721.1/82912/Temin13-11REV.pdf%3Bjsessionid%3D8BA2D1E9927529B7E56D9445BDB7E7BC?sequence%3D3). History of Political Economy, 46(suppl_1), 337-350.
 
 Jaworski, T., and Smyth, A. (2018). [Shakeout in the early commercial airframe industry.](https://onlinelibrary.wiley.com/doi/abs/10.1111/ehr.12430) The Economic History Review, 71(2), 617–638.
 
-Hanlon, W. W. (2017). [Temporary Shocks and Persistent Effects in Urban Economies: Evidence from British Cities after the US Civil War](https://www.mitpressjournals.org/doi/pdfplus/10.1162/REST_a_00621?casa_token=g0dfVcl-7SUAAAAA:veHN12QJ5oxfFnxT6_WOlMKPcjwLvmpvs4vwCHiN1g3-gfxrI3msnCSqJNtkBQaz0eWSVtvItBWH8qM). Review of Economics and Statistics, 99(1), 67-79.
+Hanlon, W. W. (2017). [Temporary Shocks and Persistent Effects in Urban Economies: Evidence from British Cities after the US Civil War](https://www.mitpressjournals.org/doi/pdfplus/10.1162/REST_a_00621?casa_token=g0dfVcl-7SUAAAAA:veHN12QJ5oxfFnxT6_WOlMKPcjwLvmpvs4vwCHiN1g3-gfxrI3msnCSqJNtkBQaz0eWSVtvItBWH8qM). *Review of Economics and Statistics*, 99(1), 67-79.
 
 Hanlon, W. (2018). [The Persistent Effect of Temporary Input Cost Advantages in Shipbuilding, 1850-1911.](http://walkerhanlon.com/) Working Paper. 
 
-Hanlon, W. W. (2015). [Necessity is the mother of invention: Input supplies and Directed Technical Change.](https://www.jstor.org/stable/pdf/43616922.pdf) Econometrica, 83(1), 67-100.
+Hanlon, W. W. (2015). [Necessity is the mother of invention: Input supplies and Directed Technical Change.](https://www.jstor.org/stable/pdf/43616922.pdf) *Econometrica*, 83(1), 67-100.
 
 Bodenhorn, H. (2017). [Were Nineteenth-Century Industrial Workers Permanent Income Savers?](https://onlinelibrary.wiley.com/doi/full/10.1002/soej.12335) (No. w23948). National Bureau of Economic Research.
 
@@ -98,7 +100,7 @@ Belloc, M., & Bowles, S. (2017). [Persistence and Change in Culture and Institut
 
 Deirdre McCloskey. (2018). ["How Growth Happens: Liberalism, Innovism, and the Great Enrichment".](https://northwestern.app.box.com/s/ehioi7npn42h61zve03pfu6w8jj6iwhu) Working paper.
 
-Juhász, R. (2018). [Temporary protection and technology adoption: Evidence from the napoleonic blockade](https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.20151730). American Economic Review, 108(11), 3339-76. 
+Juhász, R. (2018). [Temporary protection and technology adoption: Evidence from the napoleonic blockade](https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.20151730). *American Economic Review*, 108(11), 3339-76. 
 
 Iyigun, M., Rubin, J., & Seror, A. (2018). [A Theory of Conservative Revivals](https://www.chapman.edu/research/institutes-and-centers/economic-science-institute/_files/WorkingPapers/Iyigun-Rubin-Seror-2018.pdf). Working paper.
 
@@ -114,15 +116,15 @@ Siodla, J. (2017). [Clean slate: Land-use changes in San Francisco after the 190
 
 Baten, J.,   Hippe, R. (2018). [Geography, land inequality and regional numeracy in Europe in historical perspective](https://link.springer.com/article/10.1007%2Fs10887-017-9151-1). Journal of Economic Growth, 23(1), 79-109.
 
-de Bromhead, Alan, Alan Fernihough, Markus Lampe and Kevin Hjortshøj O’Rourke (2018) ‘[When Britain Turned Inward: The Impact of Interwar British Protection](https://pure.qub.ac.uk/portal/files/128452830/w23164.pdf)’, American Economic Review, forthcoming. -- [intro](http://microeconomicinsights.org/impact-protection-trade-lessons-britains-1930s-policy-shift/)
+de Bromhead, Alan, Alan Fernihough, Markus Lampe and Kevin Hjortshøj O’Rourke (2018) ‘[When Britain Turned Inward: The Impact of Interwar British Protection](https://pure.qub.ac.uk/portal/files/128452830/w23164.pdf)’, *American Economic Review*, forthcoming. -- [intro](http://microeconomicinsights.org/impact-protection-trade-lessons-britains-1930s-policy-shift/)
 
 Dittmar, J., & Seabold, S. (2018). [New Media and Competition: Printing and Europe’s Transformation After Gutenberg.](http://www.jeremiahdittmar.com/files/new_media_revision.pdf) revise and resubmit at Journal of Political Economy.
 
 Dittmar, J., & Meisenzahl, R. (2017). [Public Goods Institutions, Human Capital, and Growth: Evidence from German History.](http://www.jeremiahdittmar.com/files/dm_publicgoods.pdf) forthcoming in Review of Economic Studies. -- [intro](http://cep.lse.ac.uk/pubs/download/cp544.pdf)
 
-Xu, Guo. 2018. ["The Costs of Patronage: Evidence from the British Empire.](https://www.aeaweb.org/articles?id=10.1257/aer.20171339&&from=f)" American Economic Review, 108 (11): 3170-98.
+Xu, Guo. 2018. ["The Costs of Patronage: Evidence from the British Empire.](https://www.aeaweb.org/articles?id=10.1257/aer.20171339&&from=f)" *American Economic Review*, 108 (11): 3170-98.
 
-Dell, M. (2010). [The persistent effects of Peru's mining mita](https://scholar.harvard.edu/files/dell/files/ecta8121_0.pdf). Econometrica, 78(6), 1863-1903.
+Dell, M. (2010). [The persistent effects of Peru's mining mita](https://scholar.harvard.edu/files/dell/files/ecta8121_0.pdf). *Econometrica*, 78(6), 1863-1903.
 
 Wallis, P., Colson, J., & Chilosi, D. (2018). [Structural Change and Economic Growth in the British Economy before the Industrial Revolution, 1500–1800.](https://www.cambridge.org/core/journals/journal-of-economic-history/article/structural-change-and-economic-growth-in-the-british-economy-before-the-industrial-revolution-15001800/55BC9B7A6B2E195033DE3837D3C085EC#.W85QRkle7Ho.twitter) The Journal of Economic History, 78(3), 862-903.
 
@@ -152,7 +154,7 @@ Masato Shizume. (2017). [A History of the Bank of Japan,1882-2016](https://www.w
 
 Wallis, P., Colson, J., & Chilosi, D. (2017). [Structural change and economic growth in the British economy before the Industrial Revolution, 1500-1800.](http://eprints.lse.ac.uk/84510/1/Wallis_Structural%20change_2017.pdf) Journal of Economic History.
 
-Ahlfeldt, G. M., Redding, S. J., Sturm, D. M., & Wolf, N. (2015). [The economics of density: Evidence from the Berlin Wall.](https://onlinelibrary.wiley.com/doi/pdf/10.3982/ECTA10876) Econometrica, 83(6), 2127-2189. -- [intro1](http://microeconomicinsights.org/economics-density-evidence-berlin-wall/) [2](http://cep.lse.ac.uk/pubs/download/cp546.pdf)
+Ahlfeldt, G. M., Redding, S. J., Sturm, D. M., & Wolf, N. (2015). [The economics of density: Evidence from the Berlin Wall.](https://onlinelibrary.wiley.com/doi/pdf/10.3982/ECTA10876) *Econometrica*, 83(6), 2127-2189. -- [intro1](http://microeconomicinsights.org/economics-density-evidence-berlin-wall/) [2](http://cep.lse.ac.uk/pubs/download/cp546.pdf)
 
 Kota Ogasawara, Mizuki Komura. (2018) .[Consequences of war: Japan's demographic transition and the marriage market.](https://sites.google.com/site/kmrmzk2012/japanese/research) Working paper.
 
@@ -216,11 +218,11 @@ Casson, M., & Lee, J. S. (2011). [The origin and development of markets: A busin
 
 Matranga, A. (2017). [The Ant and the Grasshopper: Seasonality and the Invention of Agriculture.](https://www.dropbox.com/s/3w5indcezgs9c5b/NeolithicQJE.pdf?dl=0) R&R at Quarterly Journal of Economics.
 
-Putterman, L., & Weil, D. N. (2010). [Post-1500 population flows and the long-run determinants of economic growth and inequality.](https://watermark.silverchair.com/125-4-1627.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAckwggHFBgkqhkiG9w0BBwagggG2MIIBsgIBADCCAasGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMJooU2861jm8Hllw4AgEQgIIBfC4Kk4LTm-aSQ7lZPbzLuDxs45cc5bk9YvrCuaHs22UsD8jkdMxbdwT666StXoGodQjF_OCWXYnoMUhub4oiYOwoGOg25sPElMjrfNu6RKU6rSlDvVwmzVH06wjRbIcTLpGZa2S3tnO7OxI7fhkDAQUgfjgLe13RLewkRxR5wrnKJIQ9Nm36RjbyvbSaGWf3Ni5jicfcvCfvTu2KGA4r0qkzxtzxSvTzoTmXQJ6cLHqXk48xfWjpJhLfr7_vX04JlRxZ9ZI2NkOriWElfvjiB2QFySQKQ8B3hRp-TGcH9RNB6tte8rIWxa9eGubBg3VC3UvbP8Q-iJN_4m8j43U4LMQB6nXIcf57CvsJO4oxQXTuPVgbf9alah7qXX0-_ck_EY6rHe-MBAByHjkAWiN2ju_urhQBL3rUq4Z9YgXt1deXOe8_SYuD1c9tofAhjIOYEhMkTQi11TV_zJ2YHudKeMEZuvmeu2SCWRzVaf0hi2Z8IlfSLQyVFpETUKxv) The Quarterly journal of economics, 125(4), 1627-1682.
+Putterman, L., & Weil, D. N. (2010). [Post-1500 population flows and the long-run determinants of economic growth and inequality.](https://watermark.silverchair.com/125-4-1627.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAckwggHFBgkqhkiG9w0BBwagggG2MIIBsgIBADCCAasGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMJooU2861jm8Hllw4AgEQgIIBfC4Kk4LTm-aSQ7lZPbzLuDxs45cc5bk9YvrCuaHs22UsD8jkdMxbdwT666StXoGodQjF_OCWXYnoMUhub4oiYOwoGOg25sPElMjrfNu6RKU6rSlDvVwmzVH06wjRbIcTLpGZa2S3tnO7OxI7fhkDAQUgfjgLe13RLewkRxR5wrnKJIQ9Nm36RjbyvbSaGWf3Ni5jicfcvCfvTu2KGA4r0qkzxtzxSvTzoTmXQJ6cLHqXk48xfWjpJhLfr7_vX04JlRxZ9ZI2NkOriWElfvjiB2QFySQKQ8B3hRp-TGcH9RNB6tte8rIWxa9eGubBg3VC3UvbP8Q-iJN_4m8j43U4LMQB6nXIcf57CvsJO4oxQXTuPVgbf9alah7qXX0-_ck_EY6rHe-MBAByHjkAWiN2ju_urhQBL3rUq4Z9YgXt1deXOe8_SYuD1c9tofAhjIOYEhMkTQi11TV_zJ2YHudKeMEZuvmeu2SCWRzVaf0hi2Z8IlfSLQyVFpETUKxv) *The Quarterly journal of economics*, 125(4), 1627-1682.
 
-Donaldson, D. (2018). [Railroads of the Raj: Estimating the impact of transportation infrastructure.](https://dave-donaldson.com/wp-content/uploads/2018/03/Donaldson_RRRaj_AER.pdf) American Economic Review, 108(4-5), 899-934.
+Donaldson, D. (2018). [Railroads of the Raj: Estimating the impact of transportation infrastructure.](https://dave-donaldson.com/wp-content/uploads/2018/03/Donaldson_RRRaj_AER.pdf) *American Economic Review*, 108(4-5), 899-934.
 
-Donaldson, Dave, and Richard Hornbeck. 2016. ["Railroads and American Economic Growth: A "Market Access" Approach"](http://faculty.chicagobooth.edu/richard.hornbeck/research/papers/Railroads_DH_2016.pdf). Quarterly Journal of Economics 131(2): 799-858. [Railroad Network Data, 1830-1920.](http://faculty.chicagobooth.edu/richard.hornbeck/research/files/RR_NetworkDatabase_DH_Oct2015%20(1).rar)[ Replication Files.](https://www.dropbox.com/s/iys8bsu2ygt4lvu/Railroads_DH_Oct2015_ReplicationFiles.rar?dl=0) [Appendix.](http://faculty.chicagobooth.edu/richard.hornbeck/research/papers/Railroads_DH_26Oct2015_OnlineAppendix.pdf)
+Donaldson, Dave, and Richard Hornbeck. 2016. ["Railroads and American Economic Growth: A "Market Access" Approach"](http://faculty.chicagobooth.edu/richard.hornbeck/research/papers/Railroads_DH_2016.pdf). *Quarterly Journal of Economics* 131(2): 799-858. [Railroad Network Data, 1830-1920.](http://faculty.chicagobooth.edu/richard.hornbeck/research/files/RR_NetworkDatabase_DH_Oct2015%20(1).rar)[ Replication Files.](https://www.dropbox.com/s/iys8bsu2ygt4lvu/Railroads_DH_Oct2015_ReplicationFiles.rar?dl=0) [Appendix.](http://faculty.chicagobooth.edu/richard.hornbeck/research/papers/Railroads_DH_26Oct2015_OnlineAppendix.pdf)
 
 Burgess, R., & Donaldson, D. (2012). [Railroads and the demise of famine in colonial india](http://www.lse.ac.uk/economics/Assets/Documents/personal-pages/robin-burgess/railroads-and-the-demise-of-famine.pdf). Manuscript. Retrieved June, 5, 2017. [--](https://www.douban.com/photos/photo/2518015942/#image) 
 
@@ -242,7 +244,7 @@ Ristuccia, C. A., & Tooze, A. (2013). [Machine tools and mass production in the 
 
 Edwards, J., & Ogilvie, S. (2012). [Contract enforcement, institutions, and social capital: the Maghribi traders reappraised](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1468-0289.2011.00635.x). The Economic History Review, 65(2), 421-444.
 
-Pascali, L. (2017). [The wind of change: Maritime technology, trade, and economic development.](https://www.aeaweb.org/articles?id=10.1257/aer.20140832) American Economic Review, 107(9), 2821-54. -- [introduce](https://ehsthelongrun.net/2017/08/24/globalisation-and-economic-development-a-lesson-from-history/)
+Pascali, L. (2017). [The wind of change: Maritime technology, trade, and economic development.](https://www.aeaweb.org/articles?id=10.1257/aer.20140832) *American Economic Review*, 107(9), 2821-54. -- [introduce](https://ehsthelongrun.net/2017/08/24/globalisation-and-economic-development-a-lesson-from-history/)
 
 Saito, O., & Takashima, M. (2016). [Estimating the shares of secondary-and tertiary-sector outputs in the age of early modern growth: the case of Japan, 1600–1874.](https://academic.oup.com/ereh/article/20/3/368/2754574) European Review of Economic History, 20(3), 368-386.
 
@@ -256,9 +258,9 @@ Dimico, A., Isopi, A., & Olsson, O. (2017). [Origins of the sicilian mafia: The 
 
 Franks, J., Mayer, C., & Miyajima, H. (2014). [The ownership of Japanese corporations in the 20th century.](https://watermark.silverchair.com/hhu018.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAbkwggG1BgkqhkiG9w0BBwagggGmMIIBogIBADCCAZsGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMyTNkiWE_dd4FwbcxAgEQgIIBbNFFDavk60vreLLd4M6tZPAwdcdylBMFY9mQIfExfksfNSxsMMcd_fceHRpjUAwDLHkynJoroagShUOuWnbMyiSrrj-wl1rfaE-bm9zVaXyoct1pLhjnVTShIxq1aN_R1bZrKyuunvxQT6u247RMalHiv18VaLwB4PUTfpBE7ml-zaLRnOi9YJloJB6RVKvknOfnLy-vONTEKjox5DK1mmNUfG3PJe8nOZKapca1bLGbHhlJLtAfgYDrBZGco-9poXUyvrVN0V7URYUXpm5fNwD8JTVJ_gtFidwaa1ERCDyHgBSnnHoXp9O89bCm3X0nBzP3AQnfejIFaLHS4oS1jd_glPDE-dCSKHnxy4krOMpvlLmGm3RtByzOq52Q3NwGCAA-bJgL1MsZw0HRkbai47mqP_B564w6zng4x4N9nynB6wQ_gkre55u1ys7cFabpbGnnreNQC2oPO8t3apKxkluNAgJgaw4WTmqMhnk) The Review of Financial Studies, 27(9), 2580-2625.
 
-Acemoglu, D., Johnson, S., & Robinson, J. A. (2012). [The colonial origins of comparative development: An empirical investigation: Reply.](https://www.jstor.org/stable/pdf/41724682.pdf) American Economic Review, 102(6), 3077-3110.
+Acemoglu, D., Johnson, S., & Robinson, J. A. (2012). [The colonial origins of comparative development: An empirical investigation: Reply.](https://www.jstor.org/stable/pdf/41724682.pdf) *American Economic Review,* 102(6), 3077-3110.
 
-Henderson, J. V., Squires, T., Storeygard, A., & Weil, D. (2017). [The global distribution of economic activity: nature, history, and the role of trade.](https://academic.oup.com/qje/article/133/1/357/4110418) The Quarterly Journal of Economics, 133(1), 357-406.
+Henderson, J. V., Squires, T., Storeygard, A., & Weil, D. (2017). [The global distribution of economic activity: nature, history, and the role of trade.](https://academic.oup.com/qje/article/133/1/357/4110418) *The Quarterly Journal of Economics*, 133(1), 357-406.
 
 
 
@@ -276,17 +278,17 @@ Henderson, J. V., Squires, T., Storeygard, A., & Weil, D. (2017). [The global di
 
 > Classic
 
-Abadie, A., & Gardeazabal, J. (2003). [The economic costs of conflict: A case study of the Basque Country.](https://www.jstor.org/stable/pdf/3132164.pdf) American economic review, 93(1), 113-132.
+Abadie, A., & Gardeazabal, J. (2003). [The economic costs of conflict: A case study of the Basque Country.](https://www.jstor.org/stable/pdf/3132164.pdf) *American economic review*, 93(1), 113-132.
 
 Gráda, C. Ó. (2007). [Making famine history](https://www.jstor.org/stable/pdf/27646746.pdf?casa_token=OSoGfaILMlgAAAAA:AYKrl7ytodYSpQ4mOBvf7edzOjZyKgOKOV0RJEVnA2o03N7x9-CVwmKYzjaJ9TczTW5kfCe2AJ0dgHm1no5YlulaEtZTeKCixA15NyEoqmY_Ur9TREF5Lg). Journal of Economic Literature, 45(1), 5-38.
 
-Conrad, A. H., & Meyer, J. R. (1958). [The economics of slavery in the ante bellum South](https://www.jstor.org/stable/pdf/1827270.pdf). Journal of Political Economy, 66(2), 95-130.
+Conrad, A. H., & Meyer, J. R. (1958). [The economics of slavery in the ante bellum South](https://www.jstor.org/stable/pdf/1827270.pdf). *Journal of Political Economy*, 66(2), 95-130.
 
 Mehlum, H., Moene, K., & Torvik, R. (2006). [Institutions and the resource curse](https://www.onlinelibrary.wiley.com/doi/full/10.1111/j.1468-0297.2006.01045.x?platform=hootsuite). The economic journal, 116(508), 1-20.
 
-Acemoglu, D., Johnson, S., & Robinson, J. (2005). [The rise of Europe: Atlantic trade, institutional change, and economic growth.](https://www.jstor.org/stable/pdf/4132729.pdf?casa_token=8hNHbI6f2WcAAAAA:gzZjzKHAAnjIaGHIvRP4beasGCXufbaEJIBx_i0UjetWRK9rDpnCLEB0m04RCgcfquobeDyFEdultEi9JC93A84PwjQ0OtAVBW339PIDC5Zlr47EZlPL-Q) American economic review, 95(3), 546-579.
+Acemoglu, D., Johnson, S., & Robinson, J. (2005). [The rise of Europe: Atlantic trade, institutional change, and economic growth.](https://www.jstor.org/stable/pdf/4132729.pdf?casa_token=8hNHbI6f2WcAAAAA:gzZjzKHAAnjIaGHIvRP4beasGCXufbaEJIBx_i0UjetWRK9rDpnCLEB0m04RCgcfquobeDyFEdultEi9JC93A84PwjQ0OtAVBW339PIDC5Zlr47EZlPL-Q) *American economic review*, 95(3), 546-579.
 
-Acemoglu, D. (2002). [Directed technical change](https://economics.mit.edu/files/4126). The Review of Economic Studies, 69(4), 781-809. [--](https://twitter.com/PapadiaAndrea/status/1030568309568294912) 
+Acemoglu, D. (2002). [Directed technical change](https://economics.mit.edu/files/4126). *The Review of Economic Studies*, 69(4), 781-809. [--](https://twitter.com/PapadiaAndrea/status/1030568309568294912) 
 
 Lamoreaux, N. R., Raff, D. M., & Temin, P. (2003). [Beyond markets and hierarchies: Toward a new synthesis of American business history.](https://faculty.wharton.upenn.edu/wp-content/uploads/2002/07/Beyond_Markets-and-_Hierarchies.pdf) The American Historical Review, 108(2), 404-433.
 
@@ -298,7 +300,7 @@ Bell, F. W. (1968). [The Pope and the price of fish](https://www.jstor.org/stabl
 
 Arthur, W. B. (1989). [Competing technologies, increasing returns, and lock-in by historical events](http://www.jstor.org/stable/pdf/2234208.pdf). The economic journal, 99(394), 116-131.
 
-Crafts, N. F. (1996). [The first industrial revolution: A guided tour for growth economists.](https://www.jstor.org/stable/pdf/2118122.pdf) The American Economic Review, 197-201.
+Crafts, N. F. (1996). [The first industrial revolution: A guided tour for growth economists.](https://www.jstor.org/stable/pdf/2118122.pdf) *The American Economic Review*, 197-201.
 
 David, P. A. (2001). [Path dependence, its critics and the quest for ‘historical economics’](file:///Users/alalalalaki/Desktop/Institution%20&%20EH/path%20dependence/Path%20dependence%20its%20critics%20and%20the%20quest%20for%20'historical%20economics'%20PA%20David%20Evolution%20and%20path%20dependence%20in%20economic%20ideas%202001.pdf). Evolution and path dependence in economic ideas: Past and present, 15, 40.
 
