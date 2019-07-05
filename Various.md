@@ -34,6 +34,8 @@ Selected by personal interests.
 
 [Templates for reproducible research projects](http://hmgaudecker.github.io/econ-project-templates/)
 
+An Economist's Guide to Visualizing Data
+
 ---
 
 ## Publishing
