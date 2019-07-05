@@ -3,7 +3,7 @@
 An unofficial reading seminar for frontier and classic papers and books in Economic History. 
 // Place: Akamon Research Building 353. 
 
-(This reading seminar is recently not maintained due to very few participants.)
+(This reading seminar is currently not maintained due to very few participants.)
 
 <br />
 
