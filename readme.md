@@ -3,7 +3,7 @@
 An unofficial reading seminar for frontier and classic papers and books in Economic History. 
 // Place: Akamon Research Building 353. 
 
-(This reading seminar is not maintained due to very few participants.)
+(This reading seminar is recently not maintained due to very few participants.)
 
 <br />
 
@@ -27,13 +27,23 @@ An unofficial reading seminar for frontier and classic papers and books in Econo
 
 ## [Advance Paper Selections](https://github.com/Alalalalaki/UT_EH/blob/master/Advance_EH_selection.md)
 
+
+
 -----
 
 ## [EH_Syllabus](https://github.com/Alalalalaki/UT_EH/tree/master/EH_Syllabus)
 
+
+
+---
+
+## [Useful Materials for Doing Academic Economics](https://github.com/Alalalalaki/UT_EH/tree/master/Various)
+
+
+
 ------
 
-## Blogs
+## EH Blogs
 
 [pseudoerasmus - Economic History Papers](https://pseudoerasmus.com/papers/) & [Books](https://pseudoerasmus.com/economic-history-books/)
 
