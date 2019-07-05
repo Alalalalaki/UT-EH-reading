@@ -37,7 +37,7 @@ An unofficial reading seminar for frontier and classic papers and books in Econo
 
 ---
 
-## [Useful Materials for Doing Academic Economics](https://github.com/Alalalalaki/UT_EH/tree/master/Various)
+## [Useful Materials for Doing Academic Economics](https://github.com/Alalalalaki/UT_EH/blob/master/Various.md)
 
 
 
