@@ -12,6 +12,8 @@ Selected by personal interests.
 
 [Writing Tips for Ph. D. Students](https://faculty.chicagobooth.edu/john.cochrane/research/papers/phd_paper_writing.pdf)
 
+[Writing as a social scientist](https://twitter.com/NoelMllr/status/1047573522741121024) 
+
 [Economical Writing by McCloskey](http://www.deirdremccloskey.com/docs/pdf/Article_86.pdf)
 
 [Writing Class Twitter Copy (slides)](https://twitter.com/economistified/status/895708590329126912)
@@ -21,8 +23,6 @@ Selected by personal interests.
 [Four Steps to an Applied Micro Paper](https://www.brown.edu/Research/Shapiro/pdfs/foursteps.pdf)
 
 [Practical Tips for Writing and Publishing Applied Economics Papers](https://static1.squarespace.com/static/55e8ab64e4b0b55649c4ab64/t/59d73b99f43b5586a0484a22/1507277732282/beatty_shimshack_applied_econ_papers.pdf)
-
-[いかにして英文雑誌に論文を掲載するか](https://www.jstage.jst.go.jp/article/nokei/86/2/86_179/_pdf)
 
 ---
 
@@ -34,23 +34,9 @@ Selected by personal interests.
 
 [Templates for reproducible research projects](http://hmgaudecker.github.io/econ-project-templates/)
 
-An Economist's Guide to Visualizing Data
+[An Economist's Guide to Visualizing Data](https://www.aeaweb.org/articles?id=10.1257/jep.28.1.209)
 
----
-
-## Publishing
-
-[Publishing Economic History](https://s3.amazonaws.com/vu-my/wp-content/uploads/sites/1997/2015/12/28094008/Publishing-Economic-History.pdf)
-
-[Getting your work published by Frederic Vermeulen](https://www.youtube.com/watch?v=eOwKtepMH5M)
-
----
-
-## Surviving in Graduate School
-
-[The 12 Step Program for Grad School](http://www.ericzwick.com/public_goods/twelve_steps.pdf)
-
-[How I Learned to Stop Worrying and Love the Job Market](http://www.ericzwick.com/public_goods/love_the_market.pdf)
+[Coding for Economists - A Language-Agnostic Guide to Programming for Economists](https://www.dropbox.com/s/vx53qtwake5wwpg/Coding_For_Econs_20190221.pdf?dl=0)
 
 ---
 
@@ -72,6 +58,22 @@ An Economist's Guide to Visualizing Data
 
 ---
 
+## Publishing
+
+[Publishing Economic History](https://s3.amazonaws.com/vu-my/wp-content/uploads/sites/1997/2015/12/28094008/Publishing-Economic-History.pdf)
+
+[Getting your work published by Frederic Vermeulen](https://www.youtube.com/watch?v=eOwKtepMH5M)
+
+---
+
+## Surviving in Graduate School
+
+[The 12 Step Program for Grad School](http://www.ericzwick.com/public_goods/twelve_steps.pdf)
+
+[How I Learned to Stop Worrying and Love the Job Market](http://www.ericzwick.com/public_goods/love_the_market.pdf)
+
+---
+
 ## Unsorted
 
 [Economists (and Economics) in Tech Companies](https://people.stanford.edu/athey/sites/default/files/economists_in_tech.pdf)
@@ -86,7 +88,15 @@ An Economist's Guide to Visualizing Data
 
 ---
 
-## 日本経済史
+## Japanese
+
+[いかにして英文雑誌に論文を掲載するか](https://www.jstage.jst.go.jp/article/nokei/86/2/86_179/_pdf)
+
+[論文の書き方について](file:///Users/alalalalaki/Documents/%E8%AB%96%E6%96%87%E3%81%AE%E6%9B%B8%E3%81%8D%E6%96%B9%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6-1.pdf)
+
+---
+
+## EH in Japan
 
 [中村隆英先生と経済史](http://www.isr.or.jp/TokeiKen/pdf/gakusai/1_10.pdf#search='%E6%88%A6%E5%BE%8C%E3%81%AE%E5%B7%A5%E6%A5%AD%E7%B5%B1%E8%A8%88+%E4%B8%AD%E6%9D%91%E9%9A%86%E8%8B%B1')
 
