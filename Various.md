@@ -1,22 +1,26 @@
 # Useful Materials for Doing Academic Economics
 
-Selected by personal interests.
+
+
+---
+
+## Collections
+
+[Advice for current and aspiring academic economists (Collection of Twitter threads)](http://jenniferdoleac.com/resources/) 
+
+[Writing, Presentation, and Refereeing Advice (Collection)](https://sites.google.com/site/amandayagan/writingadvice)
 
 ---
 
 ## Writing and Presentation
 
-[Writing, Presentation, and Refereeing Advice (Collection)](https://sites.google.com/site/amandayagan/writingadvice)
-
 [Writing Tips For Economics Research Papers](http://www.people.fas.harvard.edu/~pnikolov/resources/writingtips.pdf)
 
 [Writing Tips for Ph. D. Students](https://faculty.chicagobooth.edu/john.cochrane/research/papers/phd_paper_writing.pdf)
 
-[Writing as a social scientist](https://twitter.com/NoelMllr/status/1047573522741121024) 
+[Writing as a social scientist (Slides)](https://twitter.com/economistified/status/895708590329126912)
 
 [Economical Writing by McCloskey](http://www.deirdremccloskey.com/docs/pdf/Article_86.pdf)
-
-[Writing Class Twitter Copy (slides)](https://twitter.com/economistified/status/895708590329126912)
 
 [The Ten Most Important Rules of Writing Your Job Market Paper ](https://economics.harvard.edu/files/economics/files/tenruleswriting.pdf)
 
@@ -46,7 +50,7 @@ Selected by personal interests.
 
 [The Plain Person’s Guide to Plain Text Social Science](http://plain-text.co/index.html#introduction)
 
- [Excuse me, do you have a moment to talk about version control?.](https://peerj.com/preprints/3159.pdf)
+[Excuse me, do you have a moment to talk about version control?.](https://peerj.com/preprints/3159.pdf)
 
 [git for social science students (not software developers)](https://github.com/kuriwaki/github-demo)
 
@@ -78,8 +82,6 @@ Selected by personal interests.
 
 [Economists (and Economics) in Tech Companies](https://people.stanford.edu/athey/sites/default/files/economists_in_tech.pdf)
 
-[Advice for current and aspiring academic economists (Collection of Twitter threads)](http://jenniferdoleac.com/resources/) 
-
 ---
 
 ## Economic History
@@ -88,7 +90,7 @@ Selected by personal interests.
 
 ---
 
-## Japanese
+## In Japanese
 
 [いかにして英文雑誌に論文を掲載するか](https://www.jstage.jst.go.jp/article/nokei/86/2/86_179/_pdf)
 
