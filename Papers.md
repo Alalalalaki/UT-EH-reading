@@ -12,6 +12,8 @@ Corcoran, S. P., Evans, W. N., & Schwab, R. M. (2004). Changing labor-market opp
 
 Smith, E. (2018). The global interests of London's commercial community, 1599–1625: investment in the East India Company. The Economic History Review, 71(4), 1118-1146.
 
+Kelly, M (2019), “The standard errors of persistence”, CEPR discussion paper 13783. - [intro](https://voxeu.org/article/standard-errors-persistence?utm_source=hootsuite&utm_medium=&utm_term=&utm_content=&utm_campaign=)
+
 Kelly, M., Mokyr, J., & Gráda, C. Ó. (2014). Precocious Albion: a new interpretation of the British industrial revolution. Annu. Rev. Econ., 6(1), 363-389.
 
 Kelly, M., & Ó Gráda, C. (2016). Adam Smith, watch prices, and the industrial revolution. *The Quarterly Journal of Economics*, *131*(4), 1727-1752.

@@ -1,6 +1,6 @@
 # Useful Materials for Doing Academic Economics
 
-
+<br />
 
 ---
 
@@ -9,6 +9,8 @@
 [Advice for current and aspiring academic economists (Collection of Twitter threads)](http://jenniferdoleac.com/resources/) 
 
 [Writing, Presentation, and Refereeing Advice (Collection)](https://sites.google.com/site/amandayagan/writingadvice)
+
+[Resource (Collection including Seminar and Refereeing tips)](http://www.ryanbedwards.com/resources)
 
 ---
 
@@ -24,9 +26,11 @@
 
 [The Ten Most Important Rules of Writing Your Job Market Paper ](https://economics.harvard.edu/files/economics/files/tenruleswriting.pdf)
 
+[Practical Tips for Writing and Publishing Applied Economics Papers](https://static1.squarespace.com/static/55e8ab64e4b0b55649c4ab64/t/59d73b99f43b5586a0484a22/1507277732282/beatty_shimshack_applied_econ_papers.pdf)
+
 [Four Steps to an Applied Micro Paper](https://www.brown.edu/Research/Shapiro/pdfs/foursteps.pdf)
 
-[Practical Tips for Writing and Publishing Applied Economics Papers](https://static1.squarespace.com/static/55e8ab64e4b0b55649c4ab64/t/59d73b99f43b5586a0484a22/1507277732282/beatty_shimshack_applied_econ_papers.pdf)
+[How to Give an Applied Micro Talk](https://www.brown.edu/Research/Shapiro/pdfs/applied_micro_slides.pdf)
 
 ---
 
@@ -68,6 +72,8 @@
 
 [Getting your work published by Frederic Vermeulen](https://www.youtube.com/watch?v=eOwKtepMH5M)
 
+[How did you deal with brutal referee reports in your early career?](https://www.quora.com/How-did-you-deal-with-brutal-referee-reports-in-your-early-career/answer/Josh-Angrist?share=4beaee3a)
+
 ---
 
 ## Surviving in Graduate School
@@ -75,6 +81,8 @@
 [The 12 Step Program for Grad School](http://www.ericzwick.com/public_goods/twelve_steps.pdf)
 
 [How I Learned to Stop Worrying and Love the Job Market](http://www.ericzwick.com/public_goods/love_the_market.pdf)
+
+Most underrated advice for grad school
 
 ---
 
